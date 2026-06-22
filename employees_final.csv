@@ -1,0 +1,1001 @@
+EmployeeID,EmployeeName,Gender,Age,Department,JobRole,Location,ExperienceYears,JobLevel,Salary,EducationLevel,EmploymentType,JoiningDate,ManagerID,EmployeeStatus
+1,Rachana Mander,Female,36,Sales,Sales Manager,Bangalore,4,2,844129,M.Tech,Full-Time,2026-02-11,63,Active
+2,Aadi Goel,Male,39,Cloud,DevOps Engineer,Pune,7,3,1228762,M.Tech,Contract,2025-02-28,82,Active
+3,Vrishti Gera,Male,50,Finance,Finance Analyst,Pune,15,4,2039615,Bachelor,Full-Time,2020-07-22,16,Active
+4,Dev Arya,Female,37,HR,HR Manager,Noida,14,4,1922669,M.Tech,Contract,2023-05-20,27,Active
+5,Harish Nagy,Male,54,Operations,Operations Executive,Bangalore,19,5,2364489,MBA,Contract,2025-11-09,49,Active
+6,Deepa Modi,Male,33,Sales,Sales Executive,Kolkata,0,1,519836,B.Tech,Contract,2023-04-22,40,Active
+7,Pavani Setty,Male,39,Finance,Account Manager,Pune,13,4,1827361,MBA,Contract,2022-11-20,5,Active
+8,Unni Kumer,Female,37,Cybersecurity,Security Analyst,Pune,1,1,593046,Master,Contract,2017-09-08,22,Active
+9,Mugdha Aggarwal,Female,54,Finance,Finance Analyst,Kolkata,17,5,2178772,M.Tech,Full-Time,2019-06-10,52,Active
+10,Aayush Bala,Female,43,Technology,Technical Lead,Kolkata,9,3,1454369,MBA,Full-Time,2024-11-30,11,Inactive
+11,Harita Ravi,Male,46,Operations,Operations Manager,Hyderabad,13,4,1768129,B.Tech,Contract,2020-07-21,59,Active
+12,Gunbir Choudhury,Female,34,Data & AI,Data Analyst,Pune,8,3,1240537,Master,Full-Time,2022-04-27,6,Active
+13,Daksh Chaudhry,Female,47,Sales,Sales Manager,Noida,15,4,1903934,Master,Full-Time,2021-01-11,62,Active
+14,Gaurav Raman,Male,44,Sales,Sales Executive,Noida,10,3,1488998,M.Tech,Full-Time,2025-09-17,17,Active
+15,Atharv Sant,Female,54,Cloud,Cloud Engineer,Kolkata,5,2,909646,B.Tech,Full-Time,2021-06-14,12,Active
+16,Ekbal Sekhon,Male,42,Data & AI,Data Analyst,Mumbai,5,2,974487,MBA,Full-Time,2021-09-17,43,Inactive
+17,Farhan Ray,Female,36,Operations,Operations Executive,Bangalore,14,4,1811153,MBA,Contract,2023-01-20,24,Active
+18,Chaitaly Sundaram,Female,51,Sales,Sales Executive,Hyderabad,15,4,1882707,Master,Full-Time,2019-03-15,42,Active
+19,Charles Bhakta,Male,46,HR,HR Manager,Hyderabad,10,3,1402779,Bachelor,Full-Time,2019-10-16,92,Active
+20,Balhaar Tata,Female,36,Data & AI,Data Analyst,Bangalore,4,2,776000,MBA,Contract,2017-01-05,22,Active
+21,Lila Raja,Female,40,Cloud,DevOps Engineer,Pune,11,4,1700816,Master,Contract,2019-01-31,70,Active
+22,Yashoda Naik,Male,53,Cybersecurity,Security Analyst,Noida,1,1,537068,Bachelor,Contract,2017-07-29,2,Active
+23,Gagan Bail,Female,52,Cybersecurity,Cybersecurity Engineer,Pune,3,2,806959,MBA,Full-Time,2019-10-11,12,Active
+24,Vivaan Dixit,Male,46,Sales,Sales Executive,Hyderabad,20,5,2496815,M.Tech,Full-Time,2025-08-02,18,Inactive
+25,Damyanti Balan,Female,37,Finance,Account Manager,Pune,2,1,567761,B.Tech,Full-Time,2017-01-10,64,Active
+26,Lila Agate,Female,25,Technology,Software Engineer,Bangalore,3,2,813151,Bachelor,Contract,2017-03-07,92,Active
+27,Nakul Munshi,Male,48,HR,HR Manager,Noida,10,3,1373733,Master,Full-Time,2020-09-01,46,Active
+28,Zashil Bakshi,Female,36,Data & AI,Business Analyst,Chennai,11,4,1614660,Bachelor,Contract,2022-05-22,64,Active
+29,Xalak Sekhon,Female,50,Sales,Sales Manager,Hyderabad,13,4,1722470,MBA,Full-Time,2023-08-28,25,Inactive
+30,Shaurya Bhattacharyya,Male,48,Cybersecurity,Security Analyst,Bangalore,4,2,913834,MBA,Full-Time,2022-07-08,64,Active
+31,Jatin Chauhan,Male,29,Operations,Operations Manager,Bangalore,1,1,500678,B.Tech,Full-Time,2017-12-06,18,Inactive
+32,Rohan Manne,Female,54,Finance,Finance Analyst,Bangalore,11,4,1620578,M.Tech,Contract,2026-06-07,71,Active
+33,Suhani Randhawa,Male,48,HR,HR Manager,Hyderabad,6,3,1030349,B.Tech,Contract,2021-04-26,69,Active
+34,Vamakshi Ghosh,Female,45,Data & AI,Data Engineer,Bangalore,20,5,2408439,B.Tech,Full-Time,2022-01-04,58,Inactive
+35,Jeevika Virk,Male,51,Cloud,Cloud Engineer,Hyderabad,10,3,1475867,M.Tech,Contract,2026-04-15,8,Active
+36,Priya Goda,Female,39,Data & AI,Business Analyst,Chennai,18,5,2204782,M.Tech,Full-Time,2018-07-31,70,Active
+37,Oliver Mane,Male,38,Cybersecurity,Cybersecurity Engineer,Chennai,17,5,2300853,Bachelor,Full-Time,2018-04-11,27,Active
+38,Darika Kohli,Female,46,Finance,Account Manager,Pune,2,1,617012,M.Tech,Contract,2020-02-29,66,Active
+39,Radha Gill,Male,50,Data & AI,Business Analyst,Pune,3,2,872003,Bachelor,Full-Time,2021-06-11,57,Active
+40,Kamya Sampath,Female,33,Cloud,Cloud Engineer,Bangalore,3,2,838235,B.Tech,Contract,2023-12-17,79,Active
+41,Vedika Taneja,Male,45,Cloud,DevOps Engineer,Noida,2,1,595149,M.Tech,Full-Time,2020-11-30,55,Active
+42,Girish Wali,Female,53,Operations,Operations Manager,Mumbai,18,5,2270953,M.Tech,Contract,2024-01-07,24,Active
+43,Brinda Dada,Female,54,Technology,Senior Software Engineer,Noida,5,2,1002683,B.Tech,Full-Time,2022-09-04,26,Active
+44,Mohammed Datta,Male,49,Technology,Technical Lead,Noida,18,5,2280058,Bachelor,Contract,2024-12-29,94,Active
+45,Vritti Sha,Female,33,Technology,Senior Software Engineer,Mumbai,12,4,1684891,MBA,Contract,2017-09-07,79,Active
+46,Ayushman Narayan,Female,44,Data & AI,Data Analyst,Chennai,11,4,1599879,M.Tech,Full-Time,2021-10-24,82,Active
+47,Zaid Lanka,Male,39,Technology,Senior Software Engineer,Noida,13,4,1703386,M.Tech,Contract,2020-11-29,69,Inactive
+48,Ekansh Khalsa,Female,34,Cybersecurity,Security Analyst,Chennai,10,3,1449395,Master,Contract,2022-06-11,26,Active
+49,Chaitanya Lal,Male,30,Operations,Operations Manager,Bangalore,2,1,697382,M.Tech,Full-Time,2018-01-31,19,Inactive
+50,Siddharth Basak,Male,52,Finance,Account Manager,Pune,9,3,1408673,MBA,Contract,2017-01-21,82,Active
+51,Veer Om,Female,44,Operations,Operations Executive,Noida,14,4,1891309,M.Tech,Contract,2024-08-07,37,Active
+52,Chanakya Bahl,Female,48,Sales,Sales Manager,Chennai,5,2,951677,MBA,Contract,2019-12-27,29,Inactive
+53,Barkha Ram,Male,45,Cybersecurity,Security Analyst,Pune,10,3,1499032,M.Tech,Full-Time,2024-02-26,38,Active
+54,Edhitha Jhaveri,Male,36,Sales,Sales Executive,Mumbai,14,4,1934788,MBA,Full-Time,2021-11-14,84,Inactive
+55,Falak Uppal,Female,31,Cybersecurity,Security Analyst,Chennai,5,2,949335,B.Tech,Full-Time,2017-03-03,36,Active
+56,Jeet Walia,Female,54,Cloud,Cloud Engineer,Mumbai,19,5,2379376,Bachelor,Full-Time,2018-10-20,49,Active
+57,Bhavya Anand,Female,44,Data & AI,Data Engineer,Kolkata,18,5,2194003,MBA,Full-Time,2018-07-26,36,Active
+58,Umang Khosla,Male,47,Technology,Senior Software Engineer,Mumbai,19,5,2389788,Bachelor,Contract,2025-05-17,31,Active
+59,Chandran Rattan,Female,28,Operations,Operations Manager,Bangalore,6,3,1143630,Bachelor,Contract,2024-08-12,21,Active
+60,Frado Iyer,Male,27,Sales,Sales Executive,Chennai,2,1,593903,B.Tech,Full-Time,2025-08-10,4,Inactive
+61,Chatura Sachdeva,Male,51,Cloud,Cloud Engineer,Mumbai,3,2,734160,M.Tech,Full-Time,2025-06-05,59,Active
+62,Januja Brar,Female,43,Finance,Account Manager,Pune,5,2,858862,MBA,Full-Time,2020-04-14,68,Active
+63,Pushti Walia,Female,40,Finance,Finance Analyst,Bangalore,0,1,400948,B.Tech,Full-Time,2024-08-12,8,Active
+64,Jai Chanda,Male,44,Sales,Sales Manager,Noida,2,1,620597,Master,Contract,2017-08-14,75,Active
+65,Nicholas Karan,Female,53,Cybersecurity,Cybersecurity Engineer,Pune,17,5,2221271,B.Tech,Contract,2021-08-25,8,Inactive
+66,Sathvik Chaudhry,Female,43,Finance,Finance Analyst,Kolkata,17,5,2200618,M.Tech,Full-Time,2020-02-29,2,Active
+67,Tristan Chad,Male,36,Cloud,DevOps Engineer,Hyderabad,4,2,875904,Bachelor,Full-Time,2022-10-10,2,Active
+68,Ekanta Kapadia,Male,37,Sales,Sales Executive,Hyderabad,15,4,1963293,M.Tech,Contract,2019-04-12,95,Active
+69,Advaith Sunder,Female,54,Data & AI,Business Analyst,Noida,11,4,1546240,B.Tech,Contract,2018-09-12,53,Active
+70,Girish Deo,Female,28,HR,HR Manager,Pune,2,1,627548,B.Tech,Contract,2022-11-19,94,Active
+71,Oliver Chaudry,Female,53,Data & AI,Data Engineer,Bangalore,6,3,1060614,MBA,Full-Time,2018-05-18,30,Inactive
+72,Jagvi Patla,Male,38,Finance,Account Manager,Noida,17,5,2135437,Master,Full-Time,2025-07-09,29,Active
+73,Naveen Keer,Female,53,Cybersecurity,Cybersecurity Engineer,Mumbai,20,5,2358030,Bachelor,Full-Time,2016-08-30,7,Active
+74,Omya Palan,Female,48,Cybersecurity,Security Analyst,Pune,15,4,2047060,Bachelor,Contract,2023-02-04,32,Active
+75,Bina Khare,Female,29,Finance,Finance Analyst,Mumbai,0,1,357870,M.Tech,Full-Time,2021-09-06,35,Active
+76,Dalaja Chand,Male,25,Finance,Account Manager,Mumbai,0,1,539368,Master,Contract,2020-02-22,3,Active
+77,Chavvi Kuruvilla,Female,48,Finance,Account Manager,Noida,20,5,2401595,Master,Contract,2022-07-19,58,Inactive
+78,Naksh Buch,Female,35,Finance,Account Manager,Chennai,3,2,759793,M.Tech,Contract,2016-08-19,61,Active
+79,Timothy Gera,Female,29,HR,HR Executive,Noida,7,3,1174278,Master,Full-Time,2017-10-23,60,Active
+80,Zaid Keer,Female,36,Finance,Account Manager,Bangalore,10,3,1410162,M.Tech,Full-Time,2024-01-29,88,Active
+81,Maanas Oommen,Female,40,Operations,Operations Executive,Kolkata,17,5,2245362,Bachelor,Full-Time,2022-06-13,7,Active
+82,Jai Ahuja,Female,53,HR,HR Executive,Chennai,7,3,1111372,Bachelor,Contract,2018-07-04,3,Active
+83,Amara Verma,Female,29,Sales,Sales Executive,Pune,6,3,1167360,Master,Contract,2018-11-23,54,Active
+84,Gabriel Raghavan,Female,55,Data & AI,Data Engineer,Chennai,16,5,2035911,Master,Contract,2026-01-07,17,Inactive
+85,Oni Sur,Male,46,Cloud,DevOps Engineer,Mumbai,0,1,427355,M.Tech,Contract,2018-08-06,59,Active
+86,Yashawini Ganesh,Male,53,HR,HR Executive,Mumbai,17,5,2273732,M.Tech,Full-Time,2019-10-02,59,Inactive
+87,Turvi Deol,Female,49,Operations,Operations Manager,Chennai,19,5,2290657,MBA,Contract,2025-10-16,3,Active
+88,Wahab Issac,Female,43,Finance,Finance Analyst,Bangalore,18,5,2387912,M.Tech,Contract,2017-08-14,56,Active
+89,Darpan Pandit,Male,31,Data & AI,Data Analyst,Pune,7,3,1236246,Master,Contract,2025-07-14,97,Active
+90,Hemani Subramaniam,Female,41,Finance,Account Manager,Pune,11,4,1648456,B.Tech,Contract,2019-04-17,66,Active
+91,Yashica Shah,Male,31,Data & AI,Business Analyst,Kolkata,2,1,533259,Bachelor,Full-Time,2025-10-15,37,Active
+92,Hritik Uppal,Female,47,HR,HR Executive,Chennai,16,5,2102751,MBA,Contract,2026-03-07,91,Active
+93,Unnati Gour,Male,44,Data & AI,Data Analyst,Pune,14,4,1806573,Master,Full-Time,2023-06-20,33,Active
+94,Raksha Pau,Male,44,Data & AI,Business Analyst,Pune,1,1,486553,Bachelor,Full-Time,2020-12-29,76,Active
+95,Dalaja Contractor,Female,37,Cloud,DevOps Engineer,Bangalore,1,1,555667,M.Tech,Contract,2017-01-05,46,Active
+96,Ekaja Maharaj,Female,51,Technology,Technical Lead,Kolkata,16,5,2105675,M.Tech,Full-Time,2018-09-07,20,Active
+97,Divya Agrawal,Female,53,HR,HR Executive,Hyderabad,6,3,1216753,MBA,Full-Time,2025-05-15,91,Active
+98,Raksha Varkey,Female,52,Cloud,Cloud Engineer,Kolkata,2,1,526071,MBA,Contract,2021-12-19,36,Active
+99,Rajeshri Hegde,Male,41,Cloud,Cloud Engineer,Chennai,2,1,666355,M.Tech,Contract,2016-09-20,72,Inactive
+100,Bishakha Deshmukh,Female,51,Cloud,Cloud Engineer,Noida,1,1,449742,MBA,Contract,2016-07-27,34,Active
+101,Pushti Devan,Female,40,Technology,Senior Software Engineer,Hyderabad,16,5,2140164,M.Tech,Full-Time,2016-12-08,82,Active
+102,Owen Ganesh,Male,28,HR,HR Manager,Noida,4,2,817230,M.Tech,Full-Time,2018-07-01,28,Active
+103,Shivansh Nadig,Male,29,Cloud,DevOps Engineer,Mumbai,8,3,1262809,M.Tech,Contract,2017-02-19,63,Active
+104,Devansh Sarraf,Female,30,Operations,Operations Executive,Pune,4,2,928507,B.Tech,Contract,2017-02-25,97,Active
+105,Darpan Sachar,Female,35,Cybersecurity,Security Analyst,Mumbai,9,3,1319402,M.Tech,Full-Time,2019-04-20,81,Active
+106,Yadavi Bir,Female,34,Operations,Operations Executive,Bangalore,6,3,1081692,Master,Full-Time,2018-09-28,18,Inactive
+107,Sachi Dara,Male,41,Sales,Sales Executive,Mumbai,4,2,777468,B.Tech,Full-Time,2021-08-17,18,Inactive
+108,Ranbir Thaker,Female,44,Cloud,Cloud Engineer,Bangalore,11,4,1728539,Master,Full-Time,2020-10-29,24,Active
+109,Lakshmi Sule,Male,40,Cybersecurity,Security Analyst,Bangalore,12,4,1809747,B.Tech,Contract,2017-01-12,92,Inactive
+110,Abhimanyu Tripathi,Female,41,Sales,Sales Executive,Hyderabad,14,4,1938283,Bachelor,Contract,2017-06-09,52,Active
+111,Sai Kamdar,Female,46,Sales,Sales Executive,Chennai,10,3,1444688,Master,Contract,2021-02-08,62,Active
+112,Tanay Kumar,Male,55,Finance,Finance Analyst,Kolkata,10,3,1391043,Bachelor,Full-Time,2024-04-21,18,Active
+113,Vidhi Deol,Female,42,Finance,Finance Analyst,Hyderabad,18,5,2337255,Master,Full-Time,2017-11-08,72,Active
+114,Adweta Thakkar,Male,42,Data & AI,Data Engineer,Noida,3,2,730234,Bachelor,Contract,2022-08-12,23,Active
+115,Ekanta Acharya,Male,33,Technology,Software Engineer,Pune,1,1,442983,B.Tech,Contract,2023-08-18,28,Active
+116,Arjun Tara,Female,52,Operations,Operations Manager,Noida,15,4,1911819,M.Tech,Full-Time,2020-10-04,50,Active
+117,Warhi Hari,Male,51,Technology,Software Engineer,Mumbai,20,5,2414773,MBA,Full-Time,2016-07-06,60,Inactive
+118,Nihal Kuruvilla,Female,39,Cloud,DevOps Engineer,Bangalore,5,2,852580,MBA,Contract,2022-11-12,89,Active
+119,Zehaan Raju,Male,50,Finance,Account Manager,Kolkata,19,5,2456381,Master,Contract,2021-12-16,80,Inactive
+120,Sara Oza,Male,53,Sales,Sales Executive,Mumbai,0,1,416205,M.Tech,Contract,2023-05-08,12,Active
+121,Madhavi Rege,Female,23,Cloud,DevOps Engineer,Mumbai,1,1,453015,M.Tech,Contract,2018-02-26,38,Active
+122,Frederick Ratti,Female,50,Cybersecurity,Cybersecurity Engineer,Hyderabad,19,5,2425777,B.Tech,Full-Time,2022-11-10,30,Active
+123,Vritti Baria,Female,35,Operations,Operations Manager,Noida,8,3,1364970,MBA,Contract,2018-11-06,45,Inactive
+124,Damyanti Khosla,Female,38,Operations,Operations Manager,Bangalore,1,1,556954,B.Tech,Full-Time,2024-07-24,22,Active
+125,Warda Iyengar,Female,49,HR,HR Manager,Mumbai,19,5,2464541,MBA,Full-Time,2022-05-26,81,Inactive
+126,Pranit Pillai,Male,51,Technology,Technical Lead,Kolkata,15,4,1875920,MBA,Contract,2018-03-18,88,Active
+127,Sai Purohit,Female,44,Data & AI,Data Analyst,Kolkata,6,3,1123922,MBA,Full-Time,2019-10-07,99,Inactive
+128,Ekavir Borra,Male,54,Operations,Operations Manager,Chennai,9,3,1347784,MBA,Full-Time,2023-07-25,49,Active
+129,Ekansh Ganesan,Female,42,Operations,Operations Manager,Noida,6,3,1068606,Bachelor,Full-Time,2018-08-22,57,Active
+130,Champak Sibal,Female,41,Data & AI,Data Analyst,Mumbai,14,4,1948785,MBA,Contract,2017-11-22,76,Active
+131,Pranav Chaudhary,Male,33,Finance,Account Manager,Kolkata,2,1,565503,M.Tech,Full-Time,2018-06-29,51,Active
+132,Yauvani Wable,Male,36,Sales,Sales Manager,Mumbai,2,1,569753,MBA,Contract,2024-01-19,99,Inactive
+133,Lekha Sant,Female,23,Cybersecurity,Cybersecurity Engineer,Bangalore,2,1,529105,Master,Contract,2016-09-17,15,Inactive
+134,Isaac Vig,Male,52,Cybersecurity,Cybersecurity Engineer,Bangalore,17,5,2230461,M.Tech,Full-Time,2025-09-15,100,Active
+135,Radha Hari,Male,41,Sales,Sales Executive,Noida,11,4,1676809,B.Tech,Full-Time,2024-05-24,66,Active
+136,Xiti Kota,Male,41,Finance,Finance Analyst,Hyderabad,16,5,2178131,MBA,Contract,2025-10-22,84,Inactive
+137,Jeremiah Rau,Male,32,Cybersecurity,Security Analyst,Kolkata,10,3,1505714,Bachelor,Full-Time,2018-02-15,5,Inactive
+138,Ojasvi Bansal,Female,47,Cloud,DevOps Engineer,Mumbai,11,4,1652183,Master,Full-Time,2024-02-21,65,Active
+139,Upkaar Gole,Female,47,Sales,Sales Executive,Bangalore,13,4,1844719,Master,Contract,2024-12-30,1,Inactive
+140,Ekapad Balan,Male,54,Cloud,Cloud Engineer,Bangalore,15,4,1890133,Master,Contract,2022-12-30,25,Active
+141,Utkarsh Puri,Male,54,Finance,Account Manager,Kolkata,0,1,525252,B.Tech,Full-Time,2021-04-18,32,Inactive
+142,Warhi Mohan,Male,50,Technology,Software Engineer,Pune,18,5,2337867,MBA,Full-Time,2018-01-21,22,Active
+143,Isaac Khurana,Male,49,Cloud,Cloud Engineer,Noida,17,5,2164512,Master,Contract,2021-02-09,43,Active
+144,Rayaan Mani,Female,53,Cybersecurity,Cybersecurity Engineer,Pune,5,2,859292,B.Tech,Full-Time,2022-11-13,90,Active
+145,Omkaar Khanna,Male,49,Data & AI,Data Engineer,Pune,12,4,1687425,B.Tech,Full-Time,2026-02-23,56,Active
+146,Bimala Vaidya,Male,53,Cybersecurity,Security Analyst,Hyderabad,7,3,1216483,Bachelor,Contract,2024-11-27,53,Active
+147,Amara Nair,Male,39,Finance,Finance Analyst,Pune,15,4,1883263,Master,Contract,2026-04-20,39,Active
+148,Kashish Tiwari,Female,54,Operations,Operations Manager,Kolkata,7,3,1213081,M.Tech,Contract,2017-04-23,5,Active
+149,Widisha Chana,Male,49,Data & AI,Data Analyst,Pune,16,5,2121428,Master,Full-Time,2023-02-23,12,Active
+150,Jeevika Swaminathan,Female,42,Cybersecurity,Security Analyst,Noida,0,1,353125,B.Tech,Full-Time,2016-11-20,83,Inactive
+151,Daksha Dyal,Female,42,Cybersecurity,Security Analyst,Mumbai,20,5,2536936,M.Tech,Contract,2018-08-21,63,Inactive
+152,Dayamai Seth,Female,38,Technology,Technical Lead,Bangalore,11,4,1680376,M.Tech,Contract,2022-05-16,99,Active
+153,Wriddhish Kala,Female,43,HR,HR Executive,Kolkata,16,5,2165912,Master,Contract,2018-12-10,4,Active
+154,Benjamin Wali,Male,29,Operations,Operations Executive,Noida,2,1,625101,B.Tech,Contract,2021-10-12,4,Active
+155,Janaki Kannan,Male,45,Sales,Sales Manager,Noida,10,3,1516424,Bachelor,Full-Time,2017-02-19,21,Active
+156,Jasmit Zachariah,Male,51,Operations,Operations Executive,Kolkata,19,5,2468031,MBA,Full-Time,2016-07-14,73,Active
+157,Champak Chacko,Female,22,Data & AI,Business Analyst,Bangalore,0,1,422540,Bachelor,Contract,2021-10-05,56,Active
+158,Zinal Ratta,Male,50,Data & AI,Business Analyst,Chennai,4,2,943986,Master,Full-Time,2022-04-09,32,Active
+159,Triya Krishnamurthy,Female,41,Technology,Software Engineer,Hyderabad,14,4,1841775,Master,Full-Time,2018-07-20,10,Active
+160,Oscar Bakshi,Male,52,HR,HR Manager,Pune,20,5,2417042,M.Tech,Full-Time,2020-06-22,62,Active
+161,Charan Viswanathan,Male,51,Finance,Account Manager,Noida,9,3,1458985,M.Tech,Contract,2017-09-07,43,Active
+162,Zayan Pant,Male,50,Technology,Technical Lead,Pune,6,3,1183029,MBA,Contract,2025-01-16,83,Active
+163,Om Ganesh,Female,45,Sales,Sales Manager,Kolkata,0,1,453216,B.Tech,Full-Time,2017-12-22,99,Active
+164,Irya Banik,Female,46,HR,HR Executive,Kolkata,0,1,411542,Master,Full-Time,2018-02-12,17,Active
+165,Bhavika Sankar,Male,49,Operations,Operations Executive,Hyderabad,5,2,952479,Bachelor,Contract,2017-04-29,63,Active
+166,Nidhi Panchal,Female,53,Operations,Operations Manager,Noida,1,1,467982,Bachelor,Contract,2025-07-16,42,Inactive
+167,Yutika Sagar,Female,43,Cybersecurity,Security Analyst,Bangalore,2,1,598470,Bachelor,Contract,2022-03-15,96,Active
+168,Arunima Kant,Female,35,Technology,Software Engineer,Kolkata,10,3,1377941,B.Tech,Full-Time,2020-03-08,9,Active
+169,Kevin Saran,Male,39,Technology,Senior Software Engineer,Kolkata,6,3,1107671,B.Tech,Full-Time,2025-03-30,20,Active
+170,Wazir Mistry,Female,54,Data & AI,Business Analyst,Chennai,10,3,1351113,B.Tech,Contract,2020-06-04,63,Inactive
+171,Ekaja Jain,Female,55,Cloud,DevOps Engineer,Chennai,11,4,1720686,MBA,Contract,2024-07-11,57,Active
+172,Logan Mukhopadhyay,Female,32,Finance,Account Manager,Bangalore,1,1,440916,Master,Contract,2025-04-25,39,Active
+173,Jalsa Pandit,Male,41,Cloud,Cloud Engineer,Kolkata,6,3,1162257,MBA,Full-Time,2022-08-08,23,Inactive
+174,Barkha Mander,Male,49,Cybersecurity,Cybersecurity Engineer,Chennai,14,4,1852887,MBA,Contract,2017-08-05,83,Active
+175,Finn Puri,Male,37,Cybersecurity,Cybersecurity Engineer,Kolkata,7,3,1289746,MBA,Full-Time,2017-06-22,55,Inactive
+176,Waida Banik,Male,46,HR,HR Executive,Chennai,4,2,929859,Bachelor,Full-Time,2017-06-30,61,Inactive
+177,Rajeshri Shah,Female,52,HR,HR Executive,Noida,18,5,2329767,Master,Contract,2023-12-11,34,Active
+178,Rajeshri Gala,Male,54,HR,HR Executive,Hyderabad,11,4,1614757,Master,Contract,2020-07-01,79,Active
+179,Oviya Barad,Female,47,Data & AI,Data Analyst,Mumbai,18,5,2225494,B.Tech,Contract,2022-06-04,2,Active
+180,Upasna Jayaraman,Female,50,Cloud,Cloud Engineer,Chennai,0,1,399596,MBA,Full-Time,2025-11-10,1,Inactive
+181,Joshua Babu,Female,39,Cybersecurity,Cybersecurity Engineer,Noida,2,1,561937,Master,Full-Time,2018-07-24,22,Active
+182,Falak Mallick,Male,30,HR,HR Executive,Mumbai,5,2,1022059,B.Tech,Contract,2018-10-14,7,Inactive
+183,Warinder Ravel,Female,44,Cybersecurity,Security Analyst,Mumbai,8,3,1202990,B.Tech,Contract,2021-04-12,84,Active
+184,Krishna Mohan,Female,53,Sales,Sales Executive,Hyderabad,9,3,1368251,MBA,Full-Time,2023-06-20,94,Active
+185,Qasim Baria,Female,34,Operations,Operations Executive,Mumbai,6,3,1173106,Bachelor,Contract,2019-04-21,26,Inactive
+186,Suhani Kale,Male,37,Sales,Sales Executive,Bangalore,9,3,1274382,B.Tech,Contract,2017-10-21,8,Active
+187,Tara Iyer,Male,47,Operations,Operations Executive,Hyderabad,2,1,589993,MBA,Full-Time,2020-02-05,39,Active
+188,Ekaja Hegde,Male,43,Finance,Finance Analyst,Kolkata,8,3,1313379,B.Tech,Contract,2017-07-01,37,Active
+189,Nikita Dada,Male,54,Cybersecurity,Cybersecurity Engineer,Hyderabad,9,3,1373309,MBA,Contract,2021-05-28,39,Active
+190,Daniel Vala,Female,48,Finance,Finance Analyst,Mumbai,18,5,2349385,M.Tech,Full-Time,2020-07-05,82,Active
+191,Owen Karpe,Female,33,Finance,Finance Analyst,Pune,4,2,779229,Master,Full-Time,2017-11-20,53,Active
+192,Jalsa Dutt,Male,49,Cloud,Cloud Engineer,Noida,12,4,1718397,Master,Full-Time,2023-05-21,8,Active
+193,Dayita Khare,Male,40,Cloud,DevOps Engineer,Chennai,16,5,2147407,MBA,Contract,2017-08-24,99,Active
+194,Gabriel Chaudhuri,Female,40,Technology,Senior Software Engineer,Bangalore,16,5,2207738,Bachelor,Contract,2026-02-19,13,Active
+195,Bahadurjit Gole,Male,41,Cybersecurity,Security Analyst,Kolkata,15,4,1910301,B.Tech,Contract,2022-10-09,17,Inactive
+196,Kevin Hora,Male,52,Operations,Operations Executive,Pune,3,2,778414,Master,Contract,2019-10-15,52,Active
+197,Vasatika Patla,Female,43,Cybersecurity,Security Analyst,Chennai,18,5,2269838,MBA,Full-Time,2017-12-23,9,Active
+198,Bhavna Subramaniam,Female,46,Data & AI,Data Analyst,Mumbai,19,5,2314866,M.Tech,Full-Time,2025-06-09,6,Active
+199,Advik Thaman,Female,49,Cloud,Cloud Engineer,Mumbai,0,1,545063,MBA,Contract,2023-11-05,35,Active
+200,Osha Singh,Female,49,Finance,Account Manager,Pune,8,3,1274603,Bachelor,Full-Time,2020-08-16,35,Active
+201,Bhavani Shroff,Female,43,Data & AI,Data Engineer,Noida,13,4,1794352,M.Tech,Full-Time,2025-03-31,71,Active
+202,Lopa Sant,Female,48,Data & AI,Data Analyst,Mumbai,12,4,1745603,Master,Contract,2017-12-24,64,Inactive
+203,Adweta Tak,Male,35,Cybersecurity,Security Analyst,Mumbai,7,3,1168943,MBA,Full-Time,2022-08-04,27,Active
+204,Vanya Goyal,Male,41,Technology,Software Engineer,Bangalore,19,5,2341607,M.Tech,Contract,2016-12-27,91,Active
+205,Upkaar Rege,Male,29,Operations,Operations Executive,Mumbai,6,3,1208758,Bachelor,Contract,2020-08-18,19,Active
+206,Vinaya Kadakia,Female,49,Cybersecurity,Cybersecurity Engineer,Bangalore,8,3,1270271,MBA,Full-Time,2018-12-31,37,Active
+207,Bahadurjit Pingle,Male,48,Cybersecurity,Security Analyst,Mumbai,1,1,620840,MBA,Contract,2021-11-10,75,Active
+208,Nikita Tara,Male,48,Cloud,DevOps Engineer,Chennai,20,5,2450188,Master,Full-Time,2024-11-23,27,Active
+209,Vihaan Chakrabarti,Female,53,HR,HR Executive,Noida,11,4,1631739,MBA,Contract,2024-02-01,23,Active
+210,Yashoda Raja,Female,44,Operations,Operations Executive,Pune,18,5,2352437,Bachelor,Contract,2016-06-29,82,Active
+211,Viraj Mall,Male,29,Technology,Software Engineer,Mumbai,8,3,1349411,B.Tech,Full-Time,2017-09-28,41,Inactive
+212,Azaan Chander,Female,54,Cybersecurity,Security Analyst,Kolkata,17,5,2182839,Bachelor,Full-Time,2025-02-14,81,Inactive
+213,Jagvi Edwin,Male,45,Cloud,Cloud Engineer,Mumbai,6,3,1101811,M.Tech,Contract,2024-06-16,76,Active
+214,Dayita Sahota,Female,38,Cybersecurity,Security Analyst,Kolkata,14,4,1872424,M.Tech,Full-Time,2021-12-06,7,Active
+215,Vinaya Nori,Female,32,Cloud,DevOps Engineer,Chennai,3,2,704808,M.Tech,Full-Time,2020-10-29,16,Active
+216,Andrew Contractor,Male,43,HR,HR Manager,Hyderabad,9,3,1295698,M.Tech,Full-Time,2025-07-05,5,Active
+217,Rayaan Warrior,Female,54,Operations,Operations Executive,Pune,17,5,2161822,B.Tech,Contract,2026-04-05,29,Active
+218,Chaman Dugar,Male,38,HR,HR Executive,Pune,15,4,2037445,Bachelor,Full-Time,2020-11-26,2,Active
+219,Gautam Vala,Female,51,Data & AI,Data Analyst,Chennai,15,4,1921573,Master,Contract,2020-02-01,58,Inactive
+220,Gaurav Chokshi,Female,28,Sales,Sales Manager,Hyderabad,4,2,897661,Bachelor,Full-Time,2022-10-01,75,Active
+221,Mohini Barad,Male,44,Cloud,Cloud Engineer,Chennai,20,5,2457531,Master,Contract,2021-08-01,3,Active
+222,Daksh Balakrishnan,Male,52,Cloud,DevOps Engineer,Pune,19,5,2347407,MBA,Contract,2020-12-21,29,Active
+223,Neha Karan,Female,43,Technology,Software Engineer,Mumbai,7,3,1297092,Master,Full-Time,2021-03-02,83,Inactive
+224,Pooja Baria,Female,46,HR,HR Executive,Chennai,19,5,2293187,B.Tech,Contract,2021-01-19,69,Inactive
+225,Triya Kade,Male,54,Cloud,Cloud Engineer,Hyderabad,17,5,2142598,Bachelor,Full-Time,2020-08-19,63,Active
+226,Rajata Sarin,Female,33,Data & AI,Data Analyst,Pune,9,3,1441213,Master,Full-Time,2025-12-29,93,Active
+227,Yashodhara Pau,Male,37,Finance,Account Manager,Noida,12,4,1741218,M.Tech,Full-Time,2017-11-04,31,Active
+228,Joshua Palla,Female,43,HR,HR Manager,Kolkata,20,5,2490080,Bachelor,Contract,2017-10-23,78,Active
+229,Anirudh Sarraf,Male,32,Finance,Finance Analyst,Pune,2,1,591526,Bachelor,Full-Time,2017-07-05,35,Active
+230,Harshil Iyer,Male,40,HR,HR Manager,Mumbai,14,4,1950574,Bachelor,Contract,2021-11-23,28,Active
+231,Yoshita Panchal,Male,51,Operations,Operations Executive,Kolkata,14,4,1835810,MBA,Contract,2018-05-25,44,Active
+232,Arunima Gara,Female,31,Operations,Operations Manager,Bangalore,2,1,656088,MBA,Full-Time,2018-12-10,4,Active
+233,Harrison Chadha,Female,48,Finance,Finance Analyst,Pune,20,5,2531445,B.Tech,Full-Time,2022-10-27,42,Active
+234,Qasim Chad,Female,38,Sales,Sales Manager,Chennai,6,3,1115743,M.Tech,Full-Time,2018-09-25,34,Inactive
+235,Garima Mutti,Female,55,HR,HR Manager,Mumbai,12,4,1630989,B.Tech,Full-Time,2025-07-30,32,Active
+236,Omkaar Keer,Male,46,Finance,Account Manager,Kolkata,5,2,973386,Master,Contract,2019-03-06,38,Active
+237,Turvi Acharya,Male,49,Data & AI,Data Analyst,Bangalore,14,4,1852190,Master,Full-Time,2018-03-20,22,Active
+238,Anay Khurana,Female,49,Cybersecurity,Cybersecurity Engineer,Hyderabad,4,2,796669,B.Tech,Contract,2016-09-10,71,Active
+239,Jairaj Vasa,Male,32,Cybersecurity,Cybersecurity Engineer,Kolkata,1,1,466131,Master,Full-Time,2024-12-21,34,Inactive
+240,Fiyaz Malhotra,Male,52,HR,HR Manager,Kolkata,11,4,1605063,M.Tech,Contract,2020-08-24,44,Active
+241,Isaac Balan,Female,28,HR,HR Manager,Chennai,5,2,852190,Master,Contract,2022-05-26,58,Active
+242,Gayathri Pant,Male,29,Cloud,DevOps Engineer,Chennai,7,3,1210274,Bachelor,Full-Time,2022-03-28,65,Inactive
+243,Maya Rai,Female,50,HR,HR Manager,Bangalore,7,3,1294096,M.Tech,Contract,2023-11-14,70,Active
+244,Vasatika Chaudhry,Female,49,Sales,Sales Executive,Noida,18,5,2367040,M.Tech,Contract,2023-08-02,66,Active
+245,Devansh Subramaniam,Male,40,Operations,Operations Executive,Hyderabad,12,4,1696481,M.Tech,Full-Time,2026-02-26,52,Active
+246,Dayamai Dube,Female,24,Finance,Account Manager,Noida,0,1,489731,Bachelor,Contract,2025-08-26,66,Active
+247,Karan Shukla,Female,46,Cloud,DevOps Engineer,Mumbai,16,5,2054570,Master,Contract,2024-02-22,37,Active
+248,Ijaya Bal,Female,50,Finance,Finance Analyst,Bangalore,9,3,1413904,Master,Contract,2024-01-06,63,Inactive
+249,Sara Shenoy,Male,36,Technology,Senior Software Engineer,Hyderabad,0,1,488524,MBA,Full-Time,2019-12-16,9,Active
+250,Aarini Panchal,Male,34,Cybersecurity,Cybersecurity Engineer,Kolkata,9,3,1329071,M.Tech,Contract,2023-07-22,78,Active
+251,Gayathri Borah,Female,45,Finance,Account Manager,Chennai,12,4,1745543,Bachelor,Contract,2018-09-06,24,Active
+252,Chatura Shenoy,Female,51,Technology,Senior Software Engineer,Mumbai,12,4,1760344,Master,Contract,2020-02-05,83,Active
+253,Jeremiah Roy,Female,40,Sales,Sales Executive,Chennai,3,2,778278,B.Tech,Full-Time,2020-08-10,90,Active
+254,Zilmil Sama,Male,33,Technology,Senior Software Engineer,Noida,9,3,1301154,Master,Full-Time,2019-02-27,58,Active
+255,Kashish Wali,Male,53,HR,HR Manager,Noida,16,5,2221415,Master,Contract,2021-12-14,45,Active
+256,Bhavna Varughese,Male,35,Sales,Sales Executive,Mumbai,14,4,1886368,B.Tech,Contract,2023-11-22,60,Inactive
+257,Finn Pall,Male,39,Technology,Senior Software Engineer,Hyderabad,0,1,506991,M.Tech,Contract,2021-05-22,92,Active
+258,Maanas Chhabra,Male,33,Sales,Sales Manager,Noida,4,2,815876,Master,Contract,2024-05-04,25,Active
+259,Tanveer Parikh,Female,47,HR,HR Manager,Hyderabad,7,3,1227510,M.Tech,Contract,2017-03-31,60,Active
+260,Sanaya Thakur,Male,49,Finance,Finance Analyst,Chennai,2,1,657419,Bachelor,Full-Time,2020-02-16,32,Active
+261,Timothy Lad,Female,46,Data & AI,Data Engineer,Mumbai,19,5,2353305,B.Tech,Full-Time,2022-01-21,26,Active
+262,Odika Bains,Male,42,Finance,Account Manager,Hyderabad,20,5,2517311,Master,Contract,2023-10-15,32,Active
+263,Gabriel Balan,Male,45,Cloud,Cloud Engineer,Kolkata,14,4,1796415,Bachelor,Full-Time,2019-10-26,19,Inactive
+264,Vritti Sankaran,Male,43,Technology,Software Engineer,Pune,12,4,1700507,Master,Contract,2021-10-07,31,Active
+265,Omisha Koshy,Male,38,Cloud,DevOps Engineer,Bangalore,5,2,942796,B.Tech,Contract,2021-02-04,72,Active
+266,Nirja Kant,Female,54,Cybersecurity,Security Analyst,Chennai,14,4,1777177,B.Tech,Full-Time,2017-04-11,61,Active
+267,Hiral Shetty,Male,38,Operations,Operations Executive,Mumbai,9,3,1270128,M.Tech,Full-Time,2020-08-25,59,Inactive
+268,Warinder De,Female,45,Cybersecurity,Cybersecurity Engineer,Hyderabad,18,5,2203331,B.Tech,Full-Time,2025-03-05,98,Active
+269,Charles Dave,Male,45,Data & AI,Business Analyst,Mumbai,18,5,2362857,MBA,Contract,2019-03-11,21,Active
+270,Nimrat Lata,Male,45,Finance,Account Manager,Noida,13,4,1800634,Master,Contract,2017-04-30,67,Active
+271,Harini Golla,Female,42,Operations,Operations Manager,Kolkata,20,5,2502868,M.Tech,Full-Time,2024-03-18,50,Active
+272,Tara Mittal,Male,42,Cloud,DevOps Engineer,Pune,18,5,2272013,Master,Contract,2022-10-19,50,Active
+273,Tara Bhakta,Female,51,Operations,Operations Manager,Chennai,11,4,1691375,Bachelor,Full-Time,2021-01-26,47,Active
+274,Bhavna Brar,Female,39,Technology,Technical Lead,Chennai,8,3,1245105,Bachelor,Contract,2024-04-25,72,Active
+275,Chanakya Vyas,Female,25,HR,HR Manager,Pune,2,1,585480,B.Tech,Full-Time,2025-02-13,45,Active
+276,Bahadurjit Sharaf,Male,55,Operations,Operations Executive,Hyderabad,0,1,476639,Master,Full-Time,2022-05-14,77,Active
+277,Meghana Chada,Male,55,Finance,Account Manager,Hyderabad,15,4,1982401,Master,Contract,2024-10-20,13,Active
+278,Luke Gera,Female,35,Cybersecurity,Security Analyst,Noida,11,4,1604498,M.Tech,Contract,2016-06-20,58,Active
+279,Riya Raja,Female,37,Finance,Finance Analyst,Hyderabad,15,4,2006059,Master,Full-Time,2022-11-11,72,Active
+280,Dayamai Hayer,Female,35,Data & AI,Business Analyst,Chennai,14,4,1949683,B.Tech,Full-Time,2026-03-08,17,Active
+281,Upma Issac,Male,51,Cybersecurity,Security Analyst,Hyderabad,7,3,1258158,Master,Contract,2022-12-09,100,Active
+282,Balvan Sanghvi,Female,43,Cloud,DevOps Engineer,Bangalore,15,4,1947130,M.Tech,Contract,2020-01-11,44,Active
+283,Rishi Ganguly,Male,48,HR,HR Executive,Noida,0,1,448031,M.Tech,Contract,2018-11-30,85,Active
+284,Zaid Boase,Female,32,Cybersecurity,Security Analyst,Kolkata,8,3,1224851,B.Tech,Full-Time,2024-04-20,29,Active
+285,Rehaan Keer,Male,28,Technology,Technical Lead,Noida,3,2,764118,B.Tech,Contract,2019-09-09,47,Active
+286,Krishna Babu,Female,46,Data & AI,Business Analyst,Bangalore,7,3,1110076,B.Tech,Full-Time,2017-09-29,5,Active
+287,Yauvani Dhingra,Female,36,Cybersecurity,Cybersecurity Engineer,Pune,0,1,428652,Bachelor,Contract,2017-04-15,98,Inactive
+288,Chakradev Balay,Female,50,Cybersecurity,Security Analyst,Kolkata,20,5,2436568,M.Tech,Contract,2025-08-25,62,Active
+289,Kevin Parekh,Female,46,Finance,Finance Analyst,Kolkata,0,1,350645,Master,Contract,2022-01-20,63,Active
+290,Jagvi Lall,Female,41,Finance,Finance Analyst,Mumbai,7,3,1221366,Master,Contract,2018-07-25,1,Active
+291,Hemani Krishna,Male,42,Technology,Senior Software Engineer,Mumbai,13,4,1800831,MBA,Contract,2021-04-21,22,Active
+292,Kala Chana,Female,48,Cybersecurity,Security Analyst,Pune,13,4,1699627,MBA,Contract,2023-08-19,67,Active
+293,Gauri Virk,Female,44,Technology,Technical Lead,Bangalore,7,3,1260473,Bachelor,Full-Time,2019-01-29,67,Active
+294,Faqid Goda,Female,40,Operations,Operations Executive,Mumbai,4,2,805456,M.Tech,Full-Time,2019-03-07,57,Active
+295,Dayita Dugal,Female,45,Finance,Finance Analyst,Hyderabad,11,4,1632841,Master,Full-Time,2020-04-05,92,Active
+296,Ekapad Pillay,Female,48,Cybersecurity,Cybersecurity Engineer,Pune,14,4,1838812,Bachelor,Contract,2018-06-24,64,Active
+297,Jagdish Majumdar,Male,55,Cloud,Cloud Engineer,Chennai,7,3,1266916,B.Tech,Contract,2025-09-16,16,Active
+298,Manthan Palla,Female,44,Technology,Senior Software Engineer,Noida,11,4,1586842,Master,Full-Time,2020-02-16,89,Active
+299,Zansi Dasgupta,Female,31,Data & AI,Data Engineer,Chennai,0,1,521026,B.Tech,Full-Time,2026-05-28,93,Active
+300,Jagvi Dugar,Male,42,Sales,Sales Executive,Noida,20,5,2538994,MBA,Contract,2019-02-01,43,Active
+301,Kabir Kurian,Female,26,Cloud,Cloud Engineer,Hyderabad,3,2,807352,Master,Contract,2019-04-01,36,Active
+302,Faras Chopra,Male,45,Data & AI,Business Analyst,Kolkata,9,3,1466919,Master,Contract,2019-04-22,66,Active
+303,Baljiwan Sagar,Female,45,Technology,Technical Lead,Pune,20,5,2356745,Bachelor,Contract,2021-10-15,92,Inactive
+304,Ethan Patel,Female,50,Sales,Sales Executive,Noida,15,4,1924692,M.Tech,Full-Time,2017-09-26,96,Active
+305,Vyanjana Pillai,Male,50,Finance,Finance Analyst,Noida,6,3,1134257,M.Tech,Full-Time,2024-11-02,57,Inactive
+306,Diya Vig,Male,35,Sales,Sales Manager,Pune,1,1,613974,Bachelor,Contract,2019-08-09,95,Active
+307,Yasti Palan,Female,34,Cloud,DevOps Engineer,Bangalore,11,4,1539435,Bachelor,Contract,2024-06-21,77,Active
+308,Lajita Dugar,Female,23,Operations,Operations Manager,Pune,2,1,682502,MBA,Contract,2022-02-15,39,Active
+309,Joshua Bajwa,Male,43,Cloud,Cloud Engineer,Mumbai,11,4,1681613,Master,Contract,2025-03-13,19,Active
+310,Ijaya Divan,Male,34,Sales,Sales Executive,Hyderabad,7,3,1287155,Master,Full-Time,2016-09-10,74,Active
+311,Libni Chaudry,Female,53,Data & AI,Data Analyst,Kolkata,12,4,1808229,MBA,Full-Time,2025-10-23,49,Active
+312,Simon Devi,Female,49,Data & AI,Data Engineer,Mumbai,19,5,2389753,M.Tech,Contract,2025-05-18,56,Inactive
+313,Lipika Konda,Female,51,HR,HR Executive,Kolkata,14,4,1823457,M.Tech,Contract,2025-08-19,78,Inactive
+314,Peter Pal,Female,40,Cybersecurity,Cybersecurity Engineer,Pune,19,5,2298821,M.Tech,Full-Time,2019-11-30,33,Active
+315,Diya Kakar,Male,38,Data & AI,Data Engineer,Pune,10,3,1512578,MBA,Contract,2020-11-24,40,Inactive
+316,Kabir Sarna,Female,37,Operations,Operations Manager,Kolkata,7,3,1172174,MBA,Contract,2020-09-21,77,Active
+317,Ranbir Chada,Female,51,Cybersecurity,Cybersecurity Engineer,Mumbai,7,3,1268463,Bachelor,Contract,2026-01-04,76,Active
+318,Aayush Tailor,Female,54,HR,HR Manager,Mumbai,10,3,1357632,MBA,Contract,2023-06-05,41,Active
+319,Triveni Sem,Female,42,Cloud,DevOps Engineer,Chennai,4,2,924732,MBA,Full-Time,2018-03-31,9,Active
+320,Radha Tiwari,Female,50,Cloud,Cloud Engineer,Hyderabad,10,3,1530371,MBA,Full-Time,2018-08-31,58,Active
+321,Amruta Datta,Male,39,HR,HR Executive,Bangalore,6,3,1090169,B.Tech,Full-Time,2018-01-15,7,Active
+322,Faras Lata,Male,55,HR,HR Executive,Pune,20,5,2375807,B.Tech,Full-Time,2022-08-06,8,Active
+323,Varsha Luthra,Male,42,Sales,Sales Manager,Noida,3,2,807105,Master,Contract,2019-02-24,9,Active
+324,Bahadurjit Soman,Male,42,Technology,Senior Software Engineer,Noida,17,5,2278660,MBA,Full-Time,2021-04-05,34,Active
+325,Vamakshi Rau,Male,54,Cybersecurity,Security Analyst,Noida,7,3,1256325,B.Tech,Contract,2019-02-26,83,Active
+326,Manya Dasgupta,Female,45,Cloud,Cloud Engineer,Mumbai,10,3,1392008,Bachelor,Full-Time,2022-09-28,93,Active
+327,Varsha Pandya,Male,34,Cloud,DevOps Engineer,Pune,3,2,712312,B.Tech,Contract,2017-05-29,12,Active
+328,Onkar Mohanty,Female,49,Sales,Sales Manager,Pune,7,3,1202474,Master,Contract,2020-12-30,94,Inactive
+329,Amruta Prashad,Male,53,Cybersecurity,Cybersecurity Engineer,Mumbai,5,2,893243,MBA,Contract,2026-02-19,20,Active
+330,Garima Jaggi,Male,36,Finance,Account Manager,Chennai,3,2,811301,Bachelor,Full-Time,2021-03-02,30,Inactive
+331,Kevin Dewan,Female,45,Data & AI,Business Analyst,Noida,15,4,1950708,Master,Full-Time,2021-08-12,29,Active
+332,Bhanumati Dey,Male,53,Data & AI,Business Analyst,Pune,8,3,1205553,Master,Contract,2017-05-22,65,Inactive
+333,Pushti Mander,Male,55,Sales,Sales Executive,Hyderabad,19,5,2424590,M.Tech,Full-Time,2017-10-03,64,Active
+334,Harish Rai,Male,33,Operations,Operations Executive,Pune,9,3,1452078,MBA,Full-Time,2022-03-03,50,Active
+335,Mohini Peri,Male,36,Operations,Operations Executive,Noida,10,3,1399900,B.Tech,Full-Time,2020-09-18,39,Active
+336,Praneel Misra,Female,35,Technology,Senior Software Engineer,Bangalore,9,3,1274281,Bachelor,Full-Time,2023-03-28,64,Active
+337,Nathan Chandra,Male,47,Sales,Sales Executive,Hyderabad,15,4,1996418,MBA,Full-Time,2021-12-22,83,Active
+338,Gaurang Chauhan,Female,39,Cloud,DevOps Engineer,Noida,15,4,2024121,B.Tech,Contract,2017-08-16,54,Inactive
+339,Vidhi Comar,Female,49,Cloud,DevOps Engineer,Pune,17,5,2147971,MBA,Full-Time,2024-03-28,46,Active
+340,Edhitha Bhalla,Female,36,Cybersecurity,Cybersecurity Engineer,Hyderabad,11,4,1675007,MBA,Full-Time,2017-03-31,67,Active
+341,Vedhika Chaudry,Female,40,Technology,Senior Software Engineer,Mumbai,18,5,2232743,Bachelor,Contract,2019-04-09,86,Active
+342,Netra Dubey,Male,52,Data & AI,Business Analyst,Kolkata,5,2,933445,Bachelor,Contract,2021-05-01,54,Inactive
+343,Lopa Kapur,Male,38,Cloud,DevOps Engineer,Chennai,10,3,1437777,M.Tech,Full-Time,2025-07-20,68,Inactive
+344,Guneet Raj,Male,46,Data & AI,Data Engineer,Chennai,15,4,1979280,MBA,Contract,2020-11-01,2,Active
+345,Daksh Swamy,Female,38,Cloud,Cloud Engineer,Noida,14,4,1832975,Bachelor,Full-Time,2023-10-26,48,Active
+346,Dhriti Setty,Female,38,Cybersecurity,Cybersecurity Engineer,Pune,0,1,423926,MBA,Full-Time,2023-04-10,30,Inactive
+347,Harsh Verma,Male,48,Cloud,DevOps Engineer,Hyderabad,17,5,2152595,B.Tech,Full-Time,2022-10-03,65,Active
+348,Manya Kurian,Male,34,Technology,Software Engineer,Hyderabad,11,4,1716334,Bachelor,Contract,2021-08-21,43,Active
+349,Damyanti Virk,Male,39,Operations,Operations Manager,Noida,11,4,1538985,MBA,Contract,2017-06-02,74,Active
+350,Xiti Malhotra,Female,55,Technology,Technical Lead,Pune,20,5,2364674,Bachelor,Contract,2017-02-23,62,Active
+351,Jacob Walia,Male,46,HR,HR Executive,Noida,5,2,973594,Bachelor,Full-Time,2021-04-04,62,Active
+352,Ekanta Sarna,Female,43,Finance,Finance Analyst,Kolkata,1,1,474185,MBA,Full-Time,2021-04-03,63,Active
+353,Patrick Dhawan,Female,54,Technology,Software Engineer,Chennai,12,4,1619483,Bachelor,Full-Time,2022-12-04,64,Active
+354,Neha Dani,Male,33,Cybersecurity,Security Analyst,Bangalore,3,2,732145,M.Tech,Full-Time,2022-01-08,88,Active
+355,Chakradev Gill,Male,43,Cybersecurity,Security Analyst,Kolkata,10,3,1361108,MBA,Full-Time,2020-08-05,39,Active
+356,Lipika Gupta,Male,43,Operations,Operations Executive,Noida,20,5,2531360,B.Tech,Contract,2023-09-23,63,Inactive
+357,Daksha Sanghvi,Female,23,Cybersecurity,Cybersecurity Engineer,Hyderabad,1,1,542465,M.Tech,Contract,2023-02-28,58,Active
+358,Dev Hans,Male,46,Operations,Operations Executive,Kolkata,2,1,657576,MBA,Full-Time,2021-10-12,50,Active
+359,Ladli Cheema,Female,53,Technology,Technical Lead,Mumbai,8,3,1348193,MBA,Full-Time,2016-10-26,81,Inactive
+360,Laksh Krishnamurthy,Female,42,Cybersecurity,Cybersecurity Engineer,Chennai,17,5,2252974,M.Tech,Contract,2023-05-25,38,Active
+361,Mason Srinivasan,Female,50,Cloud,DevOps Engineer,Kolkata,7,3,1225054,MBA,Contract,2020-09-28,7,Active
+362,Gauri Raj,Male,51,Finance,Finance Analyst,Chennai,19,5,2318085,Bachelor,Contract,2026-01-13,5,Active
+363,Lavanya Kashyap,Female,32,HR,HR Executive,Mumbai,5,2,890184,M.Tech,Contract,2019-12-02,5,Inactive
+364,Thomas Jha,Male,44,Sales,Sales Manager,Pune,11,4,1544164,Master,Full-Time,2016-09-13,18,Active
+365,Ganga Chanda,Male,37,Technology,Senior Software Engineer,Hyderabad,2,1,687728,Bachelor,Contract,2022-11-16,34,Inactive
+366,Alexander Barad,Female,53,HR,HR Manager,Pune,8,3,1227374,B.Tech,Full-Time,2022-03-28,84,Active
+367,Bachittar Chacko,Male,55,Data & AI,Business Analyst,Chennai,11,4,1684932,Master,Contract,2023-03-21,17,Active
+368,Raagini Zacharia,Male,44,Operations,Operations Manager,Kolkata,14,4,1872894,M.Tech,Contract,2025-02-22,50,Inactive
+369,Andrew Wable,Male,37,Operations,Operations Executive,Chennai,13,4,1871204,Master,Full-Time,2024-08-23,60,Active
+370,Samarth Natt,Female,47,HR,HR Executive,Mumbai,0,1,411883,M.Tech,Contract,2022-01-31,70,Inactive
+371,Ekani Mall,Male,40,Finance,Account Manager,Bangalore,14,4,1838290,M.Tech,Full-Time,2017-08-03,71,Active
+372,Kalpit Bhagat,Female,50,Cloud,DevOps Engineer,Hyderabad,11,4,1650057,B.Tech,Full-Time,2025-09-04,5,Active
+373,Henry Iyer,Female,34,Finance,Account Manager,Hyderabad,4,2,966917,Master,Contract,2023-05-25,1,Active
+374,Wakeeta Ramaswamy,Female,36,Cloud,Cloud Engineer,Kolkata,3,2,829246,Bachelor,Contract,2018-06-10,87,Active
+375,Yahvi Sami,Female,50,HR,HR Executive,Mumbai,9,3,1425025,M.Tech,Full-Time,2019-05-28,28,Active
+376,Madhavi Swaminathan,Female,36,HR,HR Executive,Kolkata,3,2,872276,M.Tech,Full-Time,2017-02-24,89,Active
+377,Max Bhavsar,Female,32,Cybersecurity,Cybersecurity Engineer,Noida,10,3,1495543,M.Tech,Full-Time,2019-01-18,80,Inactive
+378,Champak Borah,Male,38,HR,HR Executive,Bangalore,6,3,1111620,B.Tech,Full-Time,2024-09-25,43,Inactive
+379,Balhaar Kaul,Female,36,Operations,Operations Manager,Chennai,15,4,1922242,M.Tech,Full-Time,2024-02-01,40,Active
+380,Edhitha Salvi,Female,27,Cybersecurity,Cybersecurity Engineer,Pune,6,3,1121736,Bachelor,Full-Time,2017-03-02,29,Active
+381,Benjamin Wable,Male,52,Operations,Operations Manager,Chennai,1,1,485864,M.Tech,Full-Time,2026-05-07,36,Active
+382,Sai Grewal,Female,37,HR,HR Executive,Hyderabad,16,5,2213204,Master,Contract,2016-12-11,32,Inactive
+383,Rushil Boase,Female,37,Finance,Finance Analyst,Mumbai,13,4,1752949,M.Tech,Contract,2017-08-24,73,Active
+384,Oscar Dey,Male,27,Data & AI,Data Analyst,Mumbai,5,2,995884,Bachelor,Full-Time,2019-06-16,69,Active
+385,Ganga Choudhary,Female,42,Cybersecurity,Cybersecurity Engineer,Mumbai,14,4,1773712,M.Tech,Contract,2021-01-19,50,Inactive
+386,Warda Barman,Male,48,Operations,Operations Manager,Hyderabad,10,3,1440593,Bachelor,Contract,2025-12-16,37,Inactive
+387,Sanaya Dhar,Male,32,HR,HR Manager,Noida,11,4,1616351,MBA,Contract,2022-09-28,14,Inactive
+388,Pavani Mitra,Male,45,HR,HR Manager,Kolkata,17,5,2196397,B.Tech,Full-Time,2022-11-12,54,Active
+389,Caleb Gara,Female,35,HR,HR Manager,Noida,10,3,1416483,B.Tech,Contract,2021-09-04,59,Active
+390,Bhavini Bansal,Female,41,Finance,Account Manager,Bangalore,3,2,871611,Bachelor,Contract,2025-09-14,59,Active
+391,Jason Mukherjee,Female,33,Operations,Operations Executive,Hyderabad,11,4,1666170,Master,Contract,2026-02-15,84,Inactive
+392,Brijesh Jani,Male,54,HR,HR Manager,Chennai,13,4,1888844,M.Tech,Full-Time,2018-05-14,5,Active
+393,Ira Pandya,Female,41,Finance,Account Manager,Mumbai,20,5,2454780,Bachelor,Contract,2021-12-02,36,Active
+394,Falak Sanghvi,Male,54,Sales,Sales Manager,Pune,11,4,1551216,B.Tech,Full-Time,2021-05-28,26,Active
+395,Anjali Bansal,Male,47,Technology,Senior Software Engineer,Kolkata,0,1,508632,Master,Full-Time,2022-12-27,52,Inactive
+396,David Ramachandran,Female,31,HR,HR Manager,Chennai,8,3,1232870,B.Tech,Full-Time,2022-05-24,38,Active
+397,Unni Ratti,Male,31,Operations,Operations Manager,Pune,0,1,513216,M.Tech,Contract,2018-10-23,7,Active
+398,Oeshi Karnik,Male,40,Data & AI,Business Analyst,Bangalore,9,3,1333712,MBA,Full-Time,2023-04-30,86,Active
+399,Jalsa Ranganathan,Female,25,Sales,Sales Executive,Hyderabad,0,1,404712,Master,Full-Time,2022-07-29,89,Active
+400,Yatin Narang,Female,50,Data & AI,Business Analyst,Chennai,8,3,1344589,Master,Full-Time,2017-11-27,3,Active
+401,Omya Chaudhary,Male,52,Cybersecurity,Security Analyst,Mumbai,10,3,1459644,MBA,Contract,2017-06-25,4,Active
+402,Qadim Deep,Male,40,Cloud,Cloud Engineer,Pune,8,3,1349153,M.Tech,Contract,2018-05-03,13,Inactive
+403,Christopher Sharma,Female,37,Finance,Finance Analyst,Mumbai,0,1,386908,Bachelor,Contract,2021-05-23,97,Active
+404,Yagnesh Nanda,Female,49,Data & AI,Business Analyst,Noida,15,4,1877265,Master,Contract,2021-04-12,88,Inactive
+405,Darsh Datta,Female,43,Sales,Sales Executive,Mumbai,1,1,524041,Master,Full-Time,2018-03-14,36,Active
+406,Hemal Chada,Female,48,Sales,Sales Manager,Mumbai,4,2,807036,MBA,Full-Time,2025-02-13,85,Active
+407,Hardik More,Male,25,Cloud,DevOps Engineer,Mumbai,0,1,530009,MBA,Contract,2023-08-20,63,Inactive
+408,Jhalak Bera,Male,30,Finance,Finance Analyst,Chennai,6,3,1040175,B.Tech,Full-Time,2019-09-22,89,Active
+409,Hemang Kalita,Female,51,Cybersecurity,Cybersecurity Engineer,Chennai,16,5,2109651,Bachelor,Contract,2018-08-03,3,Active
+410,Yug Palla,Female,40,Cybersecurity,Security Analyst,Mumbai,5,2,989519,M.Tech,Full-Time,2022-11-03,71,Active
+411,Samuel Sura,Male,55,Data & AI,Business Analyst,Bangalore,0,1,497696,Bachelor,Contract,2023-01-14,46,Active
+412,Jackson Sagar,Male,54,HR,HR Executive,Hyderabad,18,5,2228372,B.Tech,Contract,2023-10-31,31,Inactive
+413,Sathvik Mani,Male,51,Technology,Technical Lead,Pune,7,3,1183114,Master,Full-Time,2025-04-03,28,Active
+414,Veer Rama,Male,48,Operations,Operations Executive,Mumbai,13,4,1806972,MBA,Contract,2021-11-23,96,Active
+415,Caleb Suri,Female,38,Data & AI,Data Analyst,Noida,12,4,1727722,Master,Full-Time,2025-11-07,52,Active
+416,Jalsa Pillay,Female,39,Sales,Sales Manager,Hyderabad,13,4,1756790,Bachelor,Full-Time,2020-06-20,64,Inactive
+417,Balveer Dube,Male,36,Data & AI,Data Engineer,Noida,11,4,1574440,Bachelor,Contract,2021-03-31,61,Active
+418,Max Bhardwaj,Male,54,Operations,Operations Executive,Noida,20,5,2390567,Bachelor,Contract,2025-09-10,77,Active
+419,Neha Patil,Male,50,Technology,Senior Software Engineer,Bangalore,18,5,2212338,Bachelor,Full-Time,2021-12-04,7,Active
+420,Jeet Samra,Male,39,Finance,Account Manager,Mumbai,18,5,2289721,M.Tech,Contract,2017-07-15,3,Active
+421,Thomas Mittal,Male,50,Cybersecurity,Cybersecurity Engineer,Hyderabad,20,5,2427439,MBA,Full-Time,2024-10-03,67,Inactive
+422,Abeer Rama,Male,50,Sales,Sales Manager,Kolkata,8,3,1370831,M.Tech,Contract,2020-03-28,37,Active
+423,Raagini Basu,Female,53,Sales,Sales Manager,Mumbai,8,3,1374586,M.Tech,Full-Time,2016-10-14,68,Active
+424,Ekaraj Buch,Female,53,Technology,Technical Lead,Bangalore,2,1,539989,Bachelor,Contract,2020-07-18,20,Active
+425,Hema Shah,Male,45,Finance,Finance Analyst,Hyderabad,18,5,2229563,Master,Full-Time,2021-03-18,91,Active
+426,Yash Sibal,Male,30,Operations,Operations Manager,Mumbai,9,3,1406981,Bachelor,Full-Time,2023-07-31,69,Active
+427,Dakshesh Balakrishnan,Male,37,Technology,Technical Lead,Chennai,10,3,1444084,MBA,Full-Time,2022-11-21,31,Active
+428,Ishani Kale,Female,46,Finance,Finance Analyst,Hyderabad,12,4,1801318,Bachelor,Full-Time,2017-11-22,82,Active
+429,Anthony Ben,Male,26,Cloud,Cloud Engineer,Mumbai,4,2,926470,M.Tech,Contract,2022-08-20,24,Active
+430,Nisha Pathak,Male,35,Cloud,DevOps Engineer,Bangalore,2,1,674728,Bachelor,Full-Time,2023-03-10,11,Active
+431,Sanaya Kant,Female,54,Sales,Sales Manager,Pune,15,4,1927241,MBA,Full-Time,2020-04-04,22,Active
+432,Ijaya Gokhale,Female,23,Cybersecurity,Security Analyst,Chennai,0,1,508554,B.Tech,Full-Time,2018-06-14,75,Active
+433,William Gandhi,Male,41,HR,HR Executive,Bangalore,18,5,2201169,M.Tech,Contract,2020-09-03,29,Inactive
+434,Imaran Bose,Male,37,Finance,Account Manager,Chennai,16,5,2175664,Bachelor,Contract,2024-06-05,97,Inactive
+435,Eesha Singh,Male,45,Finance,Account Manager,Bangalore,12,4,1688361,M.Tech,Full-Time,2022-06-14,19,Active
+436,Chaitaly Sarna,Female,36,HR,HR Executive,Mumbai,11,4,1706717,Master,Full-Time,2024-11-05,81,Inactive
+437,Upma Sathe,Male,55,Technology,Senior Software Engineer,Kolkata,16,5,2053941,Bachelor,Contract,2021-01-17,17,Active
+438,Orinder Cheema,Male,42,Technology,Software Engineer,Mumbai,12,4,1763147,B.Tech,Contract,2020-10-12,67,Active
+439,Tanish Keer,Male,42,Cloud,Cloud Engineer,Bangalore,1,1,508946,Master,Contract,2024-05-20,68,Active
+440,Vrishti Subramanian,Male,34,Cloud,DevOps Engineer,Noida,12,4,1778187,MBA,Full-Time,2018-04-24,15,Inactive
+441,Zansi Memon,Male,46,HR,HR Manager,Mumbai,8,3,1290583,M.Tech,Contract,2018-08-17,15,Inactive
+442,Kabir Viswanathan,Female,47,Finance,Finance Analyst,Bangalore,3,2,848885,Bachelor,Contract,2022-09-21,35,Active
+443,Kamya Chana,Male,46,Cloud,Cloud Engineer,Hyderabad,13,4,1856294,M.Tech,Full-Time,2016-12-07,11,Active
+444,Aachal Pandey,Female,45,Finance,Finance Analyst,Hyderabad,8,3,1255565,MBA,Contract,2023-03-17,64,Active
+445,Aahana Dube,Male,41,Operations,Operations Manager,Bangalore,19,5,2377316,M.Tech,Contract,2018-10-23,83,Active
+446,Qarin Walla,Female,49,Data & AI,Data Engineer,Mumbai,17,5,2127814,M.Tech,Full-Time,2019-07-05,75,Active
+447,Gunbir Borah,Female,21,Cybersecurity,Cybersecurity Engineer,Noida,0,1,392183,Bachelor,Full-Time,2022-10-13,54,Inactive
+448,Logan Bera,Female,53,Technology,Senior Software Engineer,Bangalore,6,3,1146248,B.Tech,Contract,2024-12-06,36,Active
+449,Girik Shenoy,Female,32,Operations,Operations Manager,Hyderabad,6,3,1050732,M.Tech,Contract,2022-07-01,7,Active
+450,Widisha Shukla,Male,44,Cybersecurity,Cybersecurity Engineer,Chennai,12,4,1672323,MBA,Full-Time,2019-08-07,75,Active
+451,Jacob Shan,Male,53,HR,HR Executive,Bangalore,20,5,2370269,Master,Full-Time,2016-08-24,85,Active
+452,Kalpit Purohit,Female,53,Operations,Operations Manager,Mumbai,4,2,807513,Bachelor,Contract,2024-07-17,69,Inactive
+453,Veer Kata,Female,47,HR,HR Executive,Pune,15,4,2025965,Master,Contract,2017-09-30,35,Active
+454,Jeet Sandhu,Female,43,Operations,Operations Manager,Bangalore,19,5,2401832,Master,Full-Time,2019-08-25,20,Inactive
+455,Abha Hora,Male,50,Technology,Software Engineer,Hyderabad,15,4,1959781,MBA,Contract,2022-02-09,47,Active
+456,Vidhi Pillay,Female,55,HR,HR Executive,Noida,20,5,2408730,M.Tech,Contract,2023-12-23,22,Active
+457,Shaurya Batta,Female,48,Cybersecurity,Security Analyst,Bangalore,15,4,1969025,Master,Full-Time,2024-04-13,26,Active
+458,Bhavini Nair,Female,46,Data & AI,Business Analyst,Mumbai,10,3,1415458,Bachelor,Full-Time,2017-05-31,4,Inactive
+459,Naksh Seth,Female,41,HR,HR Executive,Mumbai,16,5,2204367,M.Tech,Contract,2019-08-19,65,Inactive
+460,Mitali Khurana,Female,32,HR,HR Executive,Noida,0,1,445892,MBA,Contract,2017-09-26,94,Active
+461,Adweta Tripathi,Male,53,Operations,Operations Executive,Bangalore,3,2,718488,Bachelor,Contract,2023-06-11,36,Active
+462,Pranit Choudhry,Male,46,Sales,Sales Manager,Hyderabad,13,4,1864947,Master,Contract,2023-01-15,94,Active
+463,Daksh Chander,Female,34,Data & AI,Data Analyst,Noida,9,3,1369193,B.Tech,Full-Time,2022-10-25,63,Active
+464,Kala Aurora,Female,45,HR,HR Manager,Bangalore,14,4,1775329,Master,Full-Time,2022-03-17,16,Active
+465,Vihaan Ratta,Female,47,Cloud,Cloud Engineer,Bangalore,20,5,2414127,MBA,Contract,2019-04-16,22,Inactive
+466,Bhavna Bora,Male,48,Sales,Sales Manager,Pune,3,2,759824,MBA,Full-Time,2024-10-28,48,Active
+467,Zaid Reddy,Female,46,Cybersecurity,Cybersecurity Engineer,Chennai,16,5,2101864,MBA,Full-Time,2022-12-25,36,Inactive
+468,Prisha Prasad,Female,38,Cybersecurity,Security Analyst,Bangalore,8,3,1197309,Bachelor,Full-Time,2024-08-21,19,Active
+469,Bishakha Khanna,Female,47,Sales,Sales Executive,Bangalore,3,2,831928,B.Tech,Full-Time,2023-03-10,20,Inactive
+470,Nikita Bhakta,Female,40,Data & AI,Data Analyst,Kolkata,6,3,1114096,Bachelor,Contract,2018-07-28,42,Active
+471,Upadhriti Gupta,Female,35,HR,HR Manager,Pune,0,1,354735,Bachelor,Contract,2025-04-12,59,Inactive
+472,Vasatika Oommen,Male,49,Operations,Operations Manager,Hyderabad,11,4,1608348,Master,Contract,2016-10-10,44,Active
+473,Rajeshri Bava,Female,44,Technology,Senior Software Engineer,Mumbai,16,5,2116140,M.Tech,Contract,2025-07-08,56,Inactive
+474,Baghyawati Bobal,Male,41,Cybersecurity,Security Analyst,Bangalore,18,5,2191739,Bachelor,Full-Time,2019-03-14,22,Active
+475,Faris Gade,Female,34,Cloud,DevOps Engineer,Bangalore,1,1,547630,M.Tech,Contract,2023-05-21,50,Inactive
+476,Karan Sampath,Male,53,HR,HR Executive,Noida,16,5,2178628,M.Tech,Contract,2024-04-11,12,Active
+477,Ayushman Merchant,Male,39,Operations,Operations Executive,Kolkata,1,1,597410,M.Tech,Contract,2018-07-14,28,Active
+478,Matthew Bhakta,Female,53,Data & AI,Data Analyst,Noida,13,4,1819492,M.Tech,Contract,2018-02-18,10,Active
+479,Frado Saraf,Male,38,Cloud,DevOps Engineer,Pune,12,4,1801382,MBA,Full-Time,2026-04-08,71,Active
+480,Advik Sane,Female,46,HR,HR Executive,Chennai,16,5,2157661,Bachelor,Contract,2019-07-30,52,Active
+481,Ekbal Ganesh,Male,52,Cloud,DevOps Engineer,Mumbai,6,3,1216302,B.Tech,Contract,2022-02-19,4,Active
+482,Ganga Joshi,Female,50,HR,HR Executive,Bangalore,14,4,1818597,M.Tech,Full-Time,2017-10-25,69,Active
+483,Harrison Parekh,Female,31,Sales,Sales Manager,Chennai,0,1,444966,B.Tech,Full-Time,2018-06-29,16,Active
+484,Rachana Bir,Female,41,Finance,Account Manager,Pune,20,5,2373868,B.Tech,Full-Time,2021-02-20,88,Active
+485,Gautam Balasubramanian,Male,41,Operations,Operations Manager,Pune,14,4,1954752,MBA,Contract,2025-05-22,22,Inactive
+486,Wridesh Gole,Male,41,Operations,Operations Executive,Mumbai,4,2,906844,Master,Full-Time,2018-11-24,82,Active
+487,Alka Nayak,Female,52,Operations,Operations Executive,Pune,18,5,2238210,Bachelor,Full-Time,2020-04-28,93,Inactive
+488,Dalaja Menon,Male,54,Technology,Senior Software Engineer,Kolkata,18,5,2230374,B.Tech,Contract,2023-03-25,66,Active
+489,Wakeeta Venkataraman,Female,40,Cloud,Cloud Engineer,Chennai,13,4,1808888,B.Tech,Full-Time,2023-11-24,86,Active
+490,Ranveer Kakar,Male,48,Operations,Operations Manager,Noida,16,5,2219184,M.Tech,Full-Time,2021-08-23,55,Inactive
+491,Waida Pant,Male,49,Cloud,Cloud Engineer,Noida,16,5,2041941,Master,Contract,2021-01-04,92,Active
+492,Aryan Narasimhan,Male,33,HR,HR Executive,Pune,9,3,1355476,Master,Contract,2019-06-10,46,Active
+493,Dhruv Mall,Male,42,Cloud,DevOps Engineer,Noida,15,4,1954898,Bachelor,Full-Time,2021-10-10,71,Active
+494,Ishwar Gole,Female,51,Data & AI,Data Engineer,Kolkata,15,4,1854409,Master,Full-Time,2018-02-21,49,Active
+495,Hemangini Kapur,Female,52,HR,HR Manager,Bangalore,2,1,659580,B.Tech,Full-Time,2024-04-22,77,Inactive
+496,Yagnesh Sahni,Male,45,Finance,Finance Analyst,Noida,15,4,1914402,Bachelor,Full-Time,2025-08-10,19,Active
+497,Hemangini Buch,Male,42,Finance,Finance Analyst,Chennai,1,1,602896,Bachelor,Contract,2020-08-24,48,Active
+498,Harini Dasgupta,Female,43,Operations,Operations Executive,Hyderabad,7,3,1213018,M.Tech,Full-Time,2016-12-15,25,Active
+499,Ishita Saini,Male,47,Data & AI,Data Engineer,Noida,18,5,2288247,M.Tech,Full-Time,2019-10-12,30,Inactive
+500,Aashi Shanker,Male,42,Operations,Operations Manager,Noida,16,5,2054393,Bachelor,Contract,2019-09-11,41,Active
+501,Gabriel Amble,Female,39,Finance,Account Manager,Chennai,6,3,1139427,Master,Contract,2022-08-22,94,Active
+502,Ekantika Saha,Female,42,Cloud,DevOps Engineer,Pune,12,4,1645224,MBA,Full-Time,2021-03-06,59,Active
+503,Eshana Bobal,Female,52,Finance,Finance Analyst,Pune,20,5,2534237,Bachelor,Full-Time,2021-06-30,85,Active
+504,Tanay Kapoor,Female,45,Cloud,Cloud Engineer,Chennai,15,4,2012987,Master,Contract,2021-04-18,50,Active
+505,Amaira Batra,Male,40,Cybersecurity,Cybersecurity Engineer,Bangalore,7,3,1242786,Bachelor,Contract,2024-04-06,63,Active
+506,Balveer Solanki,Female,39,Cybersecurity,Security Analyst,Pune,7,3,1224001,Bachelor,Full-Time,2020-09-02,95,Active
+507,Anthony Sarkar,Male,36,Cybersecurity,Cybersecurity Engineer,Kolkata,12,4,1774371,MBA,Contract,2023-03-11,44,Active
+508,Omaja Bahri,Female,23,Sales,Sales Executive,Noida,1,1,606830,B.Tech,Contract,2024-03-07,57,Inactive
+509,Barkha Bhakta,Female,35,Technology,Software Engineer,Bangalore,9,3,1467791,Bachelor,Full-Time,2022-11-26,77,Active
+510,Vivaan Sankaran,Male,41,Finance,Account Manager,Mumbai,20,5,2369224,MBA,Contract,2020-09-05,69,Inactive
+511,Tanveer Kulkarni,Male,36,Finance,Finance Analyst,Kolkata,14,4,1809366,MBA,Full-Time,2022-06-26,6,Active
+512,Rachita Dora,Female,24,Cybersecurity,Cybersecurity Engineer,Chennai,1,1,444713,MBA,Full-Time,2026-03-10,96,Active
+513,Girish Ram,Female,51,HR,HR Executive,Bangalore,20,5,2387397,Master,Contract,2017-07-29,93,Active
+514,Ekaja Doshi,Male,40,HR,HR Executive,Hyderabad,15,4,1982961,MBA,Full-Time,2016-09-03,28,Active
+515,Harinakshi Tripathi,Male,29,Technology,Software Engineer,Hyderabad,8,3,1353403,MBA,Full-Time,2018-11-09,100,Active
+516,Dominic Narain,Female,51,Data & AI,Data Analyst,Pune,2,1,708887,M.Tech,Contract,2020-06-04,4,Active
+517,Watika Chakrabarti,Female,26,Cloud,DevOps Engineer,Noida,2,1,586888,MBA,Full-Time,2024-11-14,96,Inactive
+518,Panini Dara,Female,41,Cloud,Cloud Engineer,Bangalore,10,3,1399292,B.Tech,Full-Time,2022-04-19,32,Active
+519,Arjun Dhillon,Female,30,Data & AI,Business Analyst,Pune,6,3,1085553,Bachelor,Contract,2021-01-13,60,Inactive
+520,Praneel Guha,Female,28,Sales,Sales Executive,Noida,4,2,917035,Bachelor,Contract,2023-11-13,28,Active
+521,Robert Arya,Male,35,Finance,Account Manager,Bangalore,13,4,1773936,M.Tech,Contract,2025-09-14,56,Active
+522,Maya Date,Male,53,HR,HR Manager,Hyderabad,12,4,1766644,M.Tech,Full-Time,2020-08-25,85,Active
+523,Dominic Natt,Male,48,HR,HR Manager,Mumbai,16,5,2134612,Bachelor,Contract,2018-07-14,30,Inactive
+524,Chandresh Shukla,Male,49,Finance,Account Manager,Noida,16,5,2040795,Bachelor,Contract,2021-06-20,17,Active
+525,Unni Mane,Female,44,Cybersecurity,Cybersecurity Engineer,Noida,10,3,1437379,M.Tech,Full-Time,2016-07-15,25,Active
+526,Krisha Bhalla,Male,29,Cloud,Cloud Engineer,Bangalore,7,3,1161646,M.Tech,Contract,2020-12-22,6,Active
+527,Ojas Narang,Female,44,Technology,Senior Software Engineer,Hyderabad,4,2,787682,B.Tech,Contract,2022-07-04,94,Active
+528,Utkarsh Chada,Male,26,Data & AI,Data Analyst,Bangalore,5,2,980960,M.Tech,Contract,2018-08-09,43,Active
+529,Ishanvi Gaba,Male,51,Technology,Software Engineer,Pune,15,4,2007508,Master,Contract,2025-07-29,34,Active
+530,Utkarsh Ganesh,Male,55,Sales,Sales Executive,Noida,14,4,1950142,Bachelor,Contract,2020-08-02,82,Active
+531,Wyatt Mody,Male,47,Technology,Software Engineer,Bangalore,19,5,2438871,M.Tech,Full-Time,2024-06-13,87,Active
+532,Balvan Rastogi,Male,24,Data & AI,Data Analyst,Bangalore,0,1,350466,Master,Full-Time,2025-09-09,49,Active
+533,Mitali Golla,Male,45,HR,HR Manager,Hyderabad,20,5,2434087,M.Tech,Contract,2021-03-25,69,Active
+534,Ekansh Natt,Male,41,HR,HR Manager,Chennai,7,3,1161288,MBA,Full-Time,2021-03-06,38,Active
+535,Tanmayi Kuruvilla,Female,54,Finance,Account Manager,Hyderabad,16,5,2207539,Master,Contract,2025-05-29,91,Active
+536,Balendra Kapadia,Male,48,Sales,Sales Manager,Chennai,11,4,1723427,Master,Contract,2021-03-13,30,Active
+537,Vrishti Sawhney,Female,54,Cybersecurity,Cybersecurity Engineer,Kolkata,20,5,2513682,Master,Full-Time,2021-04-01,13,Active
+538,Gayathri Dara,Female,31,Cloud,Cloud Engineer,Bangalore,4,2,884836,MBA,Contract,2017-10-28,72,Active
+539,Benjamin Handa,Male,40,Operations,Operations Executive,Pune,19,5,2440033,B.Tech,Full-Time,2018-04-16,68,Inactive
+540,Devika Chad,Male,41,Data & AI,Data Engineer,Chennai,1,1,493843,Bachelor,Full-Time,2026-05-06,22,Active
+541,Oviya Sani,Female,45,Sales,Sales Manager,Pune,10,3,1522158,Master,Full-Time,2019-10-19,32,Active
+542,Pallavi Varkey,Male,40,Sales,Sales Executive,Chennai,17,5,2121395,M.Tech,Full-Time,2018-04-08,22,Active
+543,Eesha Malhotra,Male,45,Sales,Sales Manager,Pune,4,2,938262,Bachelor,Contract,2025-05-07,78,Active
+544,Advika Subramaniam,Male,55,Data & AI,Business Analyst,Kolkata,12,4,1750994,Bachelor,Contract,2021-04-13,45,Active
+545,Faraj Bhandari,Female,33,Sales,Sales Manager,Hyderabad,9,3,1349167,MBA,Full-Time,2022-03-26,81,Active
+546,Aryan Savant,Female,30,Technology,Software Engineer,Kolkata,0,1,525326,M.Tech,Full-Time,2026-04-14,40,Active
+547,Kiaan Sane,Male,31,HR,HR Executive,Chennai,5,2,972317,M.Tech,Full-Time,2022-07-16,95,Active
+548,Tristan Johal,Male,38,Sales,Sales Manager,Hyderabad,3,2,737570,M.Tech,Contract,2024-11-27,34,Inactive
+549,Mohini Bhattacharyya,Female,45,Operations,Operations Executive,Noida,0,1,446644,MBA,Full-Time,2023-04-26,3,Active
+550,Janya Bhatia,Female,44,Sales,Sales Executive,Kolkata,12,4,1620859,B.Tech,Contract,2016-07-15,66,Inactive
+551,Turvi Koshy,Female,32,Technology,Software Engineer,Hyderabad,6,3,1070872,Master,Contract,2019-09-16,73,Active
+552,Michael Karan,Male,54,Cloud,Cloud Engineer,Hyderabad,18,5,2272915,B.Tech,Contract,2024-11-28,85,Active
+553,Onveer Menon,Male,48,Operations,Operations Executive,Chennai,5,2,1008140,MBA,Contract,2023-03-04,9,Active
+554,Prisha Master,Female,55,HR,HR Manager,Mumbai,16,5,2040988,B.Tech,Contract,2025-10-01,2,Active
+555,Libni Jani,Female,51,Finance,Account Manager,Hyderabad,17,5,2275499,Bachelor,Contract,2021-04-16,17,Active
+556,Vincent Goda,Female,46,HR,HR Manager,Hyderabad,8,3,1295809,MBA,Contract,2024-09-07,39,Active
+557,Chandani Om,Female,30,HR,HR Executive,Noida,4,2,804744,MBA,Full-Time,2025-12-02,91,Active
+558,Chandran Behl,Male,45,Data & AI,Business Analyst,Hyderabad,1,1,592381,Bachelor,Full-Time,2024-07-12,80,Inactive
+559,Nilima Parmar,Male,48,Cybersecurity,Security Analyst,Kolkata,11,4,1551950,MBA,Full-Time,2022-06-10,72,Inactive
+560,Darika Wali,Female,32,Sales,Sales Executive,Pune,8,3,1310709,MBA,Contract,2021-12-20,3,Inactive
+561,Unnati Kurian,Female,47,Sales,Sales Executive,Kolkata,7,3,1244902,MBA,Full-Time,2021-03-13,96,Active
+562,Yagnesh Boase,Female,41,Operations,Operations Manager,Mumbai,19,5,2425256,M.Tech,Contract,2025-01-01,17,Active
+563,Watika Iyengar,Male,42,HR,HR Executive,Hyderabad,2,1,677420,B.Tech,Full-Time,2022-07-18,75,Active
+564,Devika Din,Female,55,Sales,Sales Executive,Kolkata,18,5,2272335,Master,Full-Time,2022-05-30,42,Active
+565,Champak Krishnan,Male,48,Cybersecurity,Security Analyst,Kolkata,15,4,1986075,M.Tech,Contract,2019-02-15,89,Active
+566,Sanya Sarraf,Female,26,Sales,Sales Manager,Hyderabad,0,1,424349,M.Tech,Contract,2021-09-26,34,Active
+567,Aryan Dhar,Male,54,Technology,Software Engineer,Hyderabad,14,4,1886952,B.Tech,Full-Time,2023-12-07,46,Inactive
+568,Mahika Purohit,Male,40,Operations,Operations Executive,Mumbai,4,2,848485,Master,Full-Time,2025-01-03,63,Active
+569,Zilmil Sanghvi,Female,54,Operations,Operations Executive,Mumbai,19,5,2464842,Master,Contract,2018-09-01,62,Active
+570,Hemang Sarraf,Male,36,Finance,Account Manager,Noida,14,4,1966465,Bachelor,Full-Time,2025-09-17,12,Active
+571,Nilima Rattan,Male,34,Cloud,Cloud Engineer,Kolkata,4,2,959727,M.Tech,Contract,2023-01-04,81,Active
+572,Chasmum Saran,Female,50,Finance,Finance Analyst,Pune,0,1,501995,Master,Full-Time,2025-07-22,3,Active
+573,Tarak Talwar,Male,46,Operations,Operations Executive,Chennai,13,4,1829572,B.Tech,Contract,2023-05-04,71,Active
+574,Logan Ramaswamy,Female,46,Operations,Operations Executive,Chennai,11,4,1712088,B.Tech,Full-Time,2020-02-10,89,Inactive
+575,Anusha Sura,Male,24,Operations,Operations Manager,Chennai,0,1,465692,M.Tech,Full-Time,2019-05-07,2,Inactive
+576,Logan Lata,Female,27,Technology,Software Engineer,Chennai,4,2,873219,MBA,Contract,2018-06-16,79,Inactive
+577,Priya Batra,Male,44,Finance,Account Manager,Mumbai,5,2,917880,MBA,Contract,2018-07-19,76,Active
+578,Adweta Dar,Male,49,Cybersecurity,Cybersecurity Engineer,Chennai,14,4,1780383,Master,Full-Time,2019-12-08,71,Active
+579,Naksh Dhar,Male,46,Finance,Account Manager,Chennai,13,4,1750877,M.Tech,Full-Time,2025-05-12,25,Active
+580,Avi Memon,Male,55,Data & AI,Data Engineer,Noida,6,3,1176328,B.Tech,Contract,2020-12-05,74,Active
+581,Triveni Divan,Male,38,Data & AI,Business Analyst,Hyderabad,7,3,1200507,B.Tech,Contract,2017-08-01,26,Active
+582,Umang Kohli,Female,44,Sales,Sales Manager,Noida,17,5,2158190,MBA,Contract,2024-03-08,42,Inactive
+583,Samar Gulati,Female,47,Operations,Operations Manager,Hyderabad,19,5,2293111,M.Tech,Contract,2021-01-19,31,Active
+584,Waida Naidu,Male,49,Data & AI,Data Engineer,Hyderabad,18,5,2375573,MBA,Contract,2017-05-25,31,Active
+585,Veer Dar,Male,50,Sales,Sales Executive,Pune,6,3,1205486,MBA,Full-Time,2019-12-25,65,Inactive
+586,Irya Gopal,Female,37,Cybersecurity,Cybersecurity Engineer,Kolkata,6,3,1206916,MBA,Full-Time,2022-10-21,93,Inactive
+587,Harish Wagle,Female,21,Sales,Sales Executive,Pune,0,1,452369,Bachelor,Contract,2024-08-13,38,Active
+588,Nicholas Parikh,Female,53,Cloud,DevOps Engineer,Hyderabad,20,5,2482568,Bachelor,Contract,2017-09-20,4,Inactive
+589,Amrita Krishnamurthy,Male,26,Data & AI,Business Analyst,Hyderabad,4,2,931718,Master,Contract,2023-05-08,74,Inactive
+590,Udant Tandon,Female,37,Operations,Operations Executive,Kolkata,8,3,1332737,Master,Full-Time,2017-05-04,72,Active
+591,Jatin Acharya,Male,30,Cloud,DevOps Engineer,Chennai,0,1,533428,MBA,Contract,2023-01-04,22,Active
+592,Yashodhara Agate,Female,52,Finance,Finance Analyst,Mumbai,20,5,2459964,Bachelor,Full-Time,2026-02-08,45,Active
+593,Warhi Sarma,Female,51,Finance,Finance Analyst,Chennai,5,2,950302,Master,Full-Time,2016-12-21,81,Active
+594,Pallavi Ghose,Male,29,HR,HR Manager,Bangalore,2,1,632577,B.Tech,Full-Time,2018-03-14,16,Active
+595,Azaan Sarkar,Male,39,Technology,Technical Lead,Chennai,18,5,2321764,Bachelor,Contract,2024-03-14,7,Active
+596,Eshana Sibal,Female,24,Sales,Sales Executive,Noida,2,1,586127,Bachelor,Full-Time,2025-12-17,7,Active
+597,Krishna Saha,Female,31,Data & AI,Data Analyst,Pune,8,3,1332800,Master,Contract,2020-03-23,65,Active
+598,Abhimanyu Reddy,Female,31,Data & AI,Data Analyst,Hyderabad,3,2,715712,B.Tech,Full-Time,2021-09-27,99,Inactive
+599,Yutika Manda,Male,38,Sales,Sales Manager,Bangalore,1,1,437905,Master,Full-Time,2020-08-01,4,Active
+600,Pahal Dugar,Female,25,Cloud,DevOps Engineer,Noida,0,1,498815,Master,Full-Time,2023-06-25,11,Active
+601,Dalbir Din,Female,39,Cloud,DevOps Engineer,Chennai,11,4,1593284,Bachelor,Full-Time,2019-06-09,37,Active
+602,Zinal Guha,Male,46,Technology,Software Engineer,Kolkata,14,4,1812649,MBA,Full-Time,2021-07-12,14,Active
+603,Ayaan Varughese,Male,32,Finance,Account Manager,Bangalore,2,1,687336,B.Tech,Full-Time,2026-01-04,63,Active
+604,Yatan Swamy,Female,39,Operations,Operations Executive,Pune,3,2,740250,M.Tech,Contract,2023-11-25,67,Active
+605,Maanav Ramachandran,Female,49,Operations,Operations Manager,Bangalore,1,1,600007,Master,Full-Time,2024-07-28,55,Active
+606,Harrison Munshi,Female,43,Data & AI,Business Analyst,Mumbai,3,2,831086,B.Tech,Full-Time,2026-02-18,13,Active
+607,Jyoti Mishra,Male,51,Operations,Operations Manager,Pune,10,3,1456406,Bachelor,Full-Time,2023-03-18,68,Active
+608,Naksh Verma,Male,43,Cybersecurity,Security Analyst,Pune,8,3,1308505,B.Tech,Full-Time,2024-06-08,27,Active
+609,Amrita Luthra,Male,45,Cloud,DevOps Engineer,Bangalore,9,3,1454525,B.Tech,Full-Time,2020-03-22,21,Active
+610,Ishaan Magar,Male,36,HR,HR Executive,Chennai,10,3,1487448,M.Tech,Full-Time,2016-12-01,38,Active
+611,Vrinda Sha,Female,51,HR,HR Executive,Mumbai,3,2,740009,MBA,Contract,2026-04-25,15,Active
+612,Vidhi Kalita,Male,53,Technology,Senior Software Engineer,Pune,2,1,545767,M.Tech,Full-Time,2021-12-08,26,Active
+613,Rishi Mittal,Female,34,Cybersecurity,Cybersecurity Engineer,Chennai,5,2,1030843,B.Tech,Full-Time,2020-02-07,87,Active
+614,Veda Desai,Male,35,Sales,Sales Executive,Noida,7,3,1274052,B.Tech,Full-Time,2020-10-18,54,Active
+615,Urishilla Barad,Male,44,Cybersecurity,Security Analyst,Pune,13,4,1804688,B.Tech,Full-Time,2017-07-14,60,Active
+616,Chanchal Mukhopadhyay,Male,42,Finance,Account Manager,Mumbai,16,5,2118224,M.Tech,Contract,2021-06-28,19,Active
+617,Sara Sidhu,Female,40,Finance,Finance Analyst,Kolkata,0,1,535709,MBA,Contract,2017-06-30,18,Active
+618,Darpan Andra,Male,49,Cloud,DevOps Engineer,Mumbai,2,1,609836,Bachelor,Full-Time,2022-07-21,87,Inactive
+619,Ishanvi Bera,Male,41,Cloud,DevOps Engineer,Mumbai,3,2,834077,M.Tech,Full-Time,2022-03-23,22,Active
+620,Aadi Badami,Female,26,Technology,Senior Software Engineer,Chennai,1,1,589463,M.Tech,Contract,2019-08-06,87,Active
+621,Praneel Sawhney,Male,33,Operations,Operations Executive,Hyderabad,5,2,1022794,Master,Full-Time,2018-12-21,95,Active
+622,Kabir Parsa,Male,43,Finance,Account Manager,Kolkata,16,5,2113309,Bachelor,Contract,2020-06-09,17,Active
+623,Fariq Sahota,Male,47,Data & AI,Data Analyst,Noida,17,5,2262091,Bachelor,Contract,2024-04-26,8,Active
+624,Hemangini Wagle,Male,33,HR,HR Executive,Chennai,9,3,1336126,Bachelor,Full-Time,2023-07-12,80,Active
+625,Amrita Nazareth,Male,30,Cybersecurity,Security Analyst,Chennai,7,3,1300309,Master,Contract,2025-09-11,90,Active
+626,Madhav Kala,Male,29,Data & AI,Data Analyst,Chennai,1,1,443821,B.Tech,Full-Time,2017-03-08,36,Active
+627,Shravya Bail,Female,44,Technology,Senior Software Engineer,Noida,15,4,1867075,Master,Contract,2021-10-14,95,Active
+628,Isaiah Chaudry,Male,54,Cloud,DevOps Engineer,Pune,18,5,2240942,Master,Contract,2025-11-20,32,Active
+629,Frado Mand,Female,30,Technology,Software Engineer,Pune,5,2,1032860,Master,Contract,2021-01-21,82,Inactive
+630,Yatin Jain,Male,45,Technology,Senior Software Engineer,Kolkata,19,5,2439690,Master,Full-Time,2016-09-24,66,Active
+631,Arjun Hora,Female,55,Sales,Sales Executive,Kolkata,4,2,871224,MBA,Contract,2019-02-14,75,Active
+632,Yochana Bhagat,Female,46,HR,HR Manager,Hyderabad,18,5,2265135,Master,Contract,2021-05-06,49,Active
+633,Indali Seth,Female,35,Finance,Account Manager,Hyderabad,1,1,590102,Bachelor,Full-Time,2021-11-26,12,Active
+634,Lucky Peri,Female,42,Operations,Operations Manager,Pune,6,3,1054577,M.Tech,Contract,2022-01-04,61,Active
+635,Gabriel Sen,Male,51,HR,HR Manager,Hyderabad,16,5,2208265,Bachelor,Contract,2022-12-11,85,Active
+636,Kavya Modi,Male,37,Operations,Operations Executive,Pune,8,3,1377091,Bachelor,Contract,2021-11-03,25,Active
+637,Chakrika Nayar,Female,40,Data & AI,Business Analyst,Kolkata,19,5,2321264,M.Tech,Full-Time,2021-08-19,22,Active
+638,Zehaan Pandey,Female,52,Sales,Sales Manager,Bangalore,18,5,2232211,B.Tech,Full-Time,2020-10-23,34,Active
+639,Harish Bhattacharyya,Female,45,Sales,Sales Manager,Kolkata,15,4,1911514,MBA,Full-Time,2020-08-31,43,Active
+640,Waida Khosla,Female,43,Cloud,DevOps Engineer,Noida,19,5,2275736,M.Tech,Full-Time,2025-05-27,57,Active
+641,Yahvi Madan,Male,43,Sales,Sales Executive,Hyderabad,18,5,2312002,M.Tech,Contract,2024-10-28,56,Active
+642,Shivani Borde,Female,37,Finance,Account Manager,Mumbai,11,4,1709467,B.Tech,Contract,2024-07-04,15,Active
+643,Leena Saha,Female,41,Technology,Technical Lead,Chennai,1,1,481539,MBA,Contract,2019-01-04,81,Inactive
+644,Sanya Sachdev,Female,44,Sales,Sales Manager,Pune,2,1,587988,Master,Contract,2018-06-29,15,Active
+645,Victor Edwin,Male,41,Finance,Account Manager,Noida,13,4,1746634,M.Tech,Contract,2020-10-28,7,Active
+646,Samarth Dave,Male,43,Technology,Technical Lead,Mumbai,7,3,1122313,B.Tech,Contract,2026-05-16,22,Active
+647,Caleb Venkataraman,Female,42,HR,HR Executive,Pune,14,4,1788268,MBA,Full-Time,2021-05-24,30,Active
+648,Lavanya Jain,Female,49,Cloud,Cloud Engineer,Noida,11,4,1670720,M.Tech,Full-Time,2019-02-01,97,Active
+649,Tarak Pau,Male,50,Sales,Sales Executive,Hyderabad,20,5,2483830,M.Tech,Contract,2019-05-01,70,Active
+650,Wriddhish Kadakia,Female,37,Finance,Finance Analyst,Bangalore,9,3,1274439,MBA,Full-Time,2022-02-10,64,Active
+651,Zayyan Vig,Female,55,Sales,Sales Executive,Kolkata,9,3,1330008,Master,Contract,2020-06-15,74,Active
+652,Tejas Natt,Female,55,Cloud,Cloud Engineer,Noida,2,1,583595,M.Tech,Full-Time,2021-06-03,52,Inactive
+653,Zaid Rege,Female,47,Cybersecurity,Security Analyst,Hyderabad,18,5,2322321,MBA,Contract,2019-08-30,63,Active
+654,Hredhaan Korpal,Male,39,Cloud,Cloud Engineer,Noida,7,3,1194198,Bachelor,Contract,2016-07-19,97,Inactive
+655,Urmi Varughese,Female,36,Data & AI,Data Analyst,Bangalore,8,3,1375106,Bachelor,Full-Time,2024-01-07,94,Active
+656,Ekani Sha,Female,46,Technology,Technical Lead,Mumbai,16,5,2134908,MBA,Contract,2023-02-28,11,Inactive
+657,Mugdha Chakraborty,Male,26,Data & AI,Data Engineer,Noida,0,1,372282,Bachelor,Full-Time,2018-06-29,34,Active
+658,Omya Bhalla,Female,36,Sales,Sales Manager,Pune,10,3,1530121,M.Tech,Full-Time,2019-10-08,46,Active
+659,Faris Savant,Male,51,Operations,Operations Executive,Chennai,15,4,2041752,MBA,Contract,2016-08-28,94,Inactive
+660,Reva Hora,Male,31,Sales,Sales Manager,Kolkata,9,3,1418285,MBA,Contract,2023-12-19,79,Inactive
+661,Tarak Sami,Male,54,Technology,Software Engineer,Noida,19,5,2394383,B.Tech,Full-Time,2026-01-14,89,Active
+662,Gunbir Bala,Female,47,Cloud,Cloud Engineer,Kolkata,12,4,1665030,Master,Contract,2022-09-15,67,Active
+663,Aadi Roy,Female,39,Sales,Sales Manager,Kolkata,11,4,1532993,MBA,Contract,2025-10-28,49,Active
+664,Chanchal Kamdar,Male,28,HR,HR Manager,Noida,5,2,890387,MBA,Contract,2021-03-04,45,Active
+665,Tamanna Minhas,Female,25,HR,HR Executive,Noida,1,1,535317,MBA,Contract,2022-05-15,11,Active
+666,Bhavya Bera,Female,50,Technology,Senior Software Engineer,Kolkata,15,4,1895364,B.Tech,Contract,2024-09-16,1,Active
+667,Samarth Ramakrishnan,Female,36,Technology,Technical Lead,Mumbai,8,3,1275387,Master,Contract,2018-06-20,25,Active
+668,Devika Chadha,Male,44,Finance,Account Manager,Mumbai,17,5,2224438,Master,Full-Time,2021-08-16,36,Active
+669,Kashish Chaudhuri,Female,27,Sales,Sales Manager,Bangalore,6,3,1201515,B.Tech,Contract,2022-04-08,84,Inactive
+670,Sudiksha Bhavsar,Male,53,HR,HR Executive,Chennai,13,4,1864366,M.Tech,Full-Time,2018-12-16,1,Inactive
+671,Warda Shere,Female,55,Finance,Account Manager,Kolkata,10,3,1436933,Master,Contract,2020-03-10,15,Active
+672,Dalbir Garde,Male,45,Cloud,Cloud Engineer,Chennai,13,4,1827958,B.Tech,Contract,2016-12-16,49,Active
+673,Yatan Chhabra,Male,46,Data & AI,Data Engineer,Chennai,8,3,1197578,Master,Full-Time,2020-05-12,85,Inactive
+674,Qarin Majumdar,Male,42,Sales,Sales Manager,Pune,20,5,2356537,B.Tech,Full-Time,2024-12-22,27,Active
+675,Nathan Barman,Male,51,HR,HR Executive,Chennai,6,3,1125184,Bachelor,Contract,2024-11-30,77,Active
+676,Zaid Iyer,Male,52,Finance,Finance Analyst,Mumbai,18,5,2205221,MBA,Full-Time,2021-05-04,19,Inactive
+677,Yatin Issac,Male,42,Sales,Sales Executive,Bangalore,6,3,1184063,Master,Contract,2023-04-24,63,Active
+678,Rachita Manne,Male,46,HR,HR Executive,Chennai,2,1,635998,M.Tech,Contract,2018-06-29,10,Active
+679,Vidhi Khosla,Female,48,Finance,Account Manager,Kolkata,3,2,732165,MBA,Contract,2018-07-20,85,Inactive
+680,Wishi Virk,Male,48,Cloud,Cloud Engineer,Noida,20,5,2393667,B.Tech,Contract,2019-08-12,21,Active
+681,Aarush Butala,Male,48,Data & AI,Business Analyst,Hyderabad,17,5,2284880,Master,Contract,2020-02-24,63,Active
+682,Omaja Ramanathan,Female,26,Cybersecurity,Cybersecurity Engineer,Pune,4,2,873853,Master,Contract,2018-08-25,88,Active
+683,Neel Kalita,Female,48,Cybersecurity,Security Analyst,Chennai,14,4,1931351,Bachelor,Contract,2017-11-27,76,Active
+684,Bahadurjit Loke,Female,47,Finance,Account Manager,Noida,14,4,1938108,B.Tech,Contract,2017-05-01,55,Inactive
+685,Jairaj Prashad,Female,52,Data & AI,Data Engineer,Chennai,16,5,2196269,B.Tech,Full-Time,2020-08-27,46,Active
+686,Anthony Rattan,Female,31,Data & AI,Data Engineer,Kolkata,8,3,1327166,M.Tech,Contract,2021-04-14,54,Active
+687,Chakradev Shankar,Male,52,Sales,Sales Executive,Noida,3,2,857540,Master,Full-Time,2018-12-05,3,Inactive
+688,Aradhana Ganesan,Male,55,Cloud,Cloud Engineer,Chennai,5,2,853765,MBA,Full-Time,2017-06-11,26,Active
+689,Abeer Gill,Male,46,Sales,Sales Executive,Mumbai,16,5,2053743,Bachelor,Full-Time,2019-11-18,59,Active
+690,Samarth Sanghvi,Female,47,Cloud,Cloud Engineer,Noida,2,1,604930,MBA,Full-Time,2020-12-27,19,Active
+691,Garima Shanker,Female,27,Data & AI,Data Analyst,Pune,4,2,921324,Master,Contract,2022-09-18,90,Active
+692,Gaurav Rout,Male,33,HR,HR Manager,Noida,5,2,918684,B.Tech,Contract,2026-05-23,33,Active
+693,Peter Balay,Male,37,Technology,Technical Lead,Kolkata,2,1,645914,Bachelor,Full-Time,2025-12-14,81,Inactive
+694,Ishanvi Gole,Female,31,Data & AI,Data Engineer,Hyderabad,1,1,513070,B.Tech,Contract,2025-04-14,94,Active
+695,Kashish Iyengar,Female,45,Sales,Sales Manager,Hyderabad,2,1,657658,M.Tech,Contract,2024-05-13,23,Active
+696,Radhika Dash,Female,47,Data & AI,Data Analyst,Kolkata,14,4,1861587,MBA,Contract,2021-06-23,32,Active
+697,Zinal Chowdhury,Male,53,HR,HR Executive,Pune,4,2,958364,Master,Full-Time,2023-06-06,84,Active
+698,Unni Sethi,Male,38,Operations,Operations Executive,Pune,15,4,2022018,Master,Contract,2023-03-09,87,Inactive
+699,Omkaar Gola,Male,44,Technology,Technical Lead,Noida,7,3,1233468,MBA,Contract,2018-07-02,15,Active
+700,Anay Balan,Male,45,Technology,Technical Lead,Hyderabad,12,4,1719051,MBA,Contract,2025-07-14,42,Active
+701,Chasmum Tiwari,Female,42,Data & AI,Business Analyst,Bangalore,19,5,2295515,M.Tech,Full-Time,2021-09-29,63,Active
+702,Daksh Bala,Male,48,Sales,Sales Manager,Bangalore,5,2,852959,M.Tech,Full-Time,2021-12-24,26,Active
+703,Udant Yadav,Female,35,Technology,Software Engineer,Hyderabad,7,3,1217730,M.Tech,Contract,2020-03-12,49,Active
+704,Janaki Morar,Male,37,HR,HR Executive,Pune,13,4,1755965,Master,Contract,2016-06-23,10,Active
+705,Bhavya Arora,Female,36,Cybersecurity,Security Analyst,Pune,14,4,1779475,B.Tech,Contract,2020-08-09,64,Active
+706,Anika Venkataraman,Male,31,Cybersecurity,Security Analyst,Mumbai,4,2,814580,B.Tech,Contract,2025-12-29,47,Active
+707,Simon Garde,Female,46,Cybersecurity,Security Analyst,Hyderabad,12,4,1797788,Bachelor,Full-Time,2019-02-05,74,Active
+708,Yash Sahni,Male,33,Data & AI,Data Engineer,Mumbai,2,1,691121,M.Tech,Full-Time,2025-05-14,88,Active
+709,Kamala Mitter,Male,35,HR,HR Manager,Hyderabad,2,1,699033,Bachelor,Contract,2026-01-04,32,Active
+710,Kai Patel,Male,40,Technology,Software Engineer,Hyderabad,2,1,707072,B.Tech,Contract,2024-12-18,39,Active
+711,Dhriti Savant,Female,40,Sales,Sales Executive,Hyderabad,2,1,647776,Bachelor,Contract,2021-07-11,18,Active
+712,Avni Barad,Male,39,Sales,Sales Executive,Noida,12,4,1683927,M.Tech,Contract,2016-12-24,9,Active
+713,Ekapad Gandhi,Male,47,Cloud,Cloud Engineer,Mumbai,16,5,2061896,Bachelor,Full-Time,2021-12-24,39,Inactive
+714,Isaiah Shanker,Male,55,Sales,Sales Manager,Kolkata,15,4,1994800,Master,Full-Time,2023-06-26,9,Active
+715,Jackson Sule,Male,31,Sales,Sales Manager,Pune,0,1,547062,Bachelor,Full-Time,2017-10-02,15,Active
+716,Neelima Rau,Female,49,Cybersecurity,Security Analyst,Bangalore,5,2,936762,Bachelor,Contract,2018-10-27,81,Active
+717,Prisha Dhillon,Female,34,Technology,Technical Lead,Hyderabad,5,2,905139,Master,Contract,2025-10-31,58,Active
+718,Ethan Nigam,Female,46,HR,HR Manager,Chennai,6,3,1197088,B.Tech,Full-Time,2024-01-15,92,Active
+719,Manan Sachdev,Male,52,Cloud,DevOps Engineer,Bangalore,2,1,539618,Bachelor,Full-Time,2025-08-18,63,Inactive
+720,Nihal Dayal,Female,51,HR,HR Executive,Kolkata,18,5,2243751,Master,Contract,2017-06-17,53,Active
+721,Maya Dewan,Female,42,Cybersecurity,Cybersecurity Engineer,Chennai,16,5,2132095,B.Tech,Contract,2025-08-30,87,Inactive
+722,Sathvik Bhargava,Female,40,Sales,Sales Manager,Mumbai,0,1,401815,Master,Contract,2024-06-29,67,Active
+723,Dayamai Radhakrishnan,Male,30,Data & AI,Data Analyst,Noida,8,3,1283412,M.Tech,Full-Time,2019-05-04,30,Active
+724,Viraj Datta,Female,51,Cloud,DevOps Engineer,Mumbai,11,4,1583524,B.Tech,Contract,2017-12-22,28,Active
+725,Yashodhara Vyas,Female,39,Cloud,Cloud Engineer,Mumbai,13,4,1861912,B.Tech,Contract,2021-08-04,56,Active
+726,Chakradhar Bawa,Female,54,Operations,Operations Executive,Bangalore,14,4,1862797,Master,Full-Time,2025-05-04,53,Inactive
+727,Kevin Manne,Male,37,Finance,Finance Analyst,Bangalore,11,4,1638832,MBA,Contract,2021-08-06,50,Inactive
+728,Ekbal Dube,Male,52,Finance,Account Manager,Chennai,10,3,1376658,M.Tech,Contract,2022-08-27,57,Active
+729,Gaurav Hayre,Male,35,Cybersecurity,Cybersecurity Engineer,Pune,3,2,749806,Bachelor,Full-Time,2019-11-07,85,Inactive
+730,Ekiya Sarraf,Male,39,Technology,Technical Lead,Hyderabad,3,2,810314,B.Tech,Full-Time,2019-07-27,11,Active
+731,Krishna Dave,Female,42,Technology,Software Engineer,Kolkata,19,5,2375613,M.Tech,Full-Time,2023-08-03,80,Active
+732,Widisha Bansal,Female,37,Data & AI,Data Engineer,Mumbai,13,4,1702722,Bachelor,Contract,2024-06-10,8,Active
+733,Yug Toor,Female,41,Cloud,Cloud Engineer,Hyderabad,6,3,1220296,MBA,Contract,2024-08-20,47,Active
+734,Nakul Bhargava,Female,43,Technology,Software Engineer,Kolkata,17,5,2270007,Bachelor,Full-Time,2020-03-05,2,Active
+735,Advaith Kulkarni,Female,42,Sales,Sales Executive,Kolkata,15,4,1920652,MBA,Contract,2021-06-23,30,Inactive
+736,Indali Nagi,Female,51,Sales,Sales Executive,Mumbai,20,5,2401326,Bachelor,Full-Time,2024-03-21,44,Inactive
+737,Kritika Sathe,Female,48,Technology,Technical Lead,Mumbai,14,4,1812214,Master,Contract,2026-05-10,47,Active
+738,Jagvi Choudhury,Male,32,Technology,Software Engineer,Mumbai,2,1,708652,Bachelor,Full-Time,2018-10-18,71,Active
+739,Ekta Raja,Male,39,Cloud,Cloud Engineer,Bangalore,10,3,1395564,B.Tech,Contract,2020-01-02,55,Active
+740,Irya Das,Male,45,Operations,Operations Manager,Chennai,15,4,1986284,MBA,Full-Time,2018-11-22,62,Inactive
+741,Mohini Pant,Male,36,Cybersecurity,Security Analyst,Noida,1,1,566230,Bachelor,Contract,2024-09-29,28,Active
+742,Ojasvi Gaba,Female,44,Technology,Software Engineer,Kolkata,7,3,1178409,B.Tech,Contract,2023-03-04,53,Active
+743,Wakeeta Solanki,Male,44,Cloud,Cloud Engineer,Mumbai,14,4,1851964,MBA,Contract,2021-04-11,61,Active
+744,Oscar Shroff,Male,47,Sales,Sales Manager,Mumbai,1,1,550093,Bachelor,Contract,2022-11-17,100,Active
+745,Orinder Varty,Male,35,HR,HR Executive,Bangalore,10,3,1413539,B.Tech,Contract,2024-01-08,48,Active
+746,Tanmayi Gaba,Female,52,Operations,Operations Executive,Kolkata,14,4,1907817,Bachelor,Full-Time,2024-05-10,17,Active
+747,Oscar Issac,Female,52,Operations,Operations Manager,Hyderabad,11,4,1716534,B.Tech,Full-Time,2016-11-10,67,Inactive
+748,Ubika Mangal,Female,51,Operations,Operations Executive,Kolkata,20,5,2481729,MBA,Contract,2016-11-19,13,Active
+749,Omya Aurora,Female,46,Finance,Account Manager,Noida,13,4,1855764,Bachelor,Contract,2023-02-27,34,Inactive
+750,Tanmayi Talwar,Male,41,Technology,Software Engineer,Kolkata,7,3,1166930,Master,Contract,2025-02-10,56,Active
+751,Advika Sibal,Female,44,Sales,Sales Manager,Bangalore,20,5,2425762,M.Tech,Contract,2017-06-07,23,Active
+752,Timothy Kala,Male,27,Operations,Operations Executive,Hyderabad,5,2,986045,M.Tech,Full-Time,2022-08-04,20,Active
+753,Anya Sidhu,Female,44,Sales,Sales Manager,Pune,8,3,1269711,Master,Contract,2021-05-20,65,Active
+754,Aarush Tak,Male,44,Technology,Technical Lead,Hyderabad,12,4,1653690,Master,Full-Time,2018-05-11,80,Active
+755,Chandran Gopal,Female,48,Cybersecurity,Security Analyst,Bangalore,14,4,1953041,M.Tech,Contract,2016-09-24,67,Active
+756,Edhitha Raju,Female,54,Cybersecurity,Cybersecurity Engineer,Kolkata,8,3,1238304,Master,Full-Time,2021-11-09,41,Active
+757,Ekansh Kata,Female,40,Cloud,DevOps Engineer,Mumbai,14,4,1911639,Bachelor,Contract,2017-09-26,14,Active
+758,Kashish Jayaraman,Female,42,HR,HR Executive,Kolkata,2,1,704842,M.Tech,Full-Time,2022-03-01,64,Active
+759,Faqid Manne,Male,37,Operations,Operations Manager,Pune,3,2,850979,Master,Full-Time,2020-08-10,59,Active
+760,Megha Pandey,Male,45,Data & AI,Data Engineer,Chennai,15,4,2015737,M.Tech,Contract,2025-09-06,82,Active
+761,Samar Manne,Female,40,Finance,Account Manager,Kolkata,8,3,1324399,B.Tech,Full-Time,2021-04-17,80,Active
+762,Gaurika Johal,Male,51,Operations,Operations Executive,Mumbai,12,4,1671584,M.Tech,Full-Time,2020-06-23,56,Active
+763,Wahab Devan,Male,50,Cybersecurity,Cybersecurity Engineer,Noida,5,2,956103,B.Tech,Full-Time,2023-07-03,59,Inactive
+764,Parth Tara,Female,44,Data & AI,Data Analyst,Noida,3,2,811563,Bachelor,Full-Time,2020-12-30,6,Active
+765,Harinakshi Krishna,Female,39,Operations,Operations Manager,Mumbai,7,3,1281023,M.Tech,Full-Time,2020-08-04,16,Active
+766,Nitesh Dani,Male,51,Cloud,DevOps Engineer,Pune,16,5,2155070,B.Tech,Full-Time,2023-02-16,35,Active
+767,Oliver Konda,Female,36,Cybersecurity,Security Analyst,Mumbai,15,4,1926744,Master,Contract,2023-11-09,23,Active
+768,Zinal Nath,Female,41,Finance,Account Manager,Bangalore,13,4,1885441,MBA,Contract,2025-05-20,26,Active
+769,Ucchal Chad,Female,54,Data & AI,Business Analyst,Kolkata,10,3,1501091,M.Tech,Contract,2019-12-02,88,Active
+770,Oni Choudhry,Male,43,Finance,Account Manager,Kolkata,10,3,1450591,Master,Full-Time,2022-11-10,8,Active
+771,Yashoda Patel,Female,27,Technology,Senior Software Engineer,Hyderabad,1,1,451132,MBA,Contract,2026-04-04,96,Active
+772,Dalaja Dhar,Female,40,Cloud,Cloud Engineer,Hyderabad,8,3,1311996,B.Tech,Contract,2025-09-30,65,Active
+773,Madhavi Parmar,Male,45,Finance,Account Manager,Hyderabad,20,5,2504740,B.Tech,Full-Time,2026-03-19,34,Inactive
+774,Irya Kota,Female,30,Cybersecurity,Cybersecurity Engineer,Hyderabad,5,2,1018024,B.Tech,Contract,2020-12-11,81,Active
+775,Fitan Ravel,Male,40,HR,HR Executive,Noida,16,5,2178161,MBA,Contract,2019-05-24,6,Inactive
+776,Tejas Dutta,Female,43,Finance,Account Manager,Pune,0,1,540325,MBA,Full-Time,2019-05-12,86,Active
+777,Tarak Raman,Female,46,HR,HR Manager,Pune,7,3,1296373,Master,Contract,2023-01-05,48,Active
+778,Chaitaly Shenoy,Male,38,Cloud,Cloud Engineer,Noida,7,3,1129157,Master,Contract,2017-05-17,64,Active
+779,Varsha Murthy,Female,44,Cloud,DevOps Engineer,Noida,10,3,1512004,B.Tech,Contract,2026-02-11,17,Active
+780,Darika De,Male,32,HR,HR Manager,Bangalore,9,3,1297637,Bachelor,Full-Time,2021-11-24,19,Active
+781,Amaira Goyal,Female,46,Operations,Operations Manager,Pune,2,1,573207,Bachelor,Full-Time,2018-10-18,25,Active
+782,Ishita Kamdar,Female,41,Cloud,DevOps Engineer,Chennai,12,4,1717175,Bachelor,Full-Time,2019-12-21,76,Active
+783,Bachittar Parmer,Female,53,Technology,Software Engineer,Hyderabad,19,5,2363716,Master,Full-Time,2019-10-02,62,Inactive
+784,Gautami Comar,Male,51,Operations,Operations Executive,Hyderabad,2,1,647090,Bachelor,Full-Time,2024-04-09,52,Active
+785,Vasatika Deshmukh,Male,47,Cloud,Cloud Engineer,Bangalore,14,4,1847763,Master,Full-Time,2017-08-19,73,Active
+786,Owen Nadkarni,Female,43,Data & AI,Data Analyst,Noida,7,3,1305249,Master,Contract,2019-07-14,10,Active
+787,Ridhi Sule,Male,30,Cybersecurity,Security Analyst,Chennai,5,2,910026,Master,Full-Time,2023-08-28,57,Active
+788,Daksh Kamdar,Female,45,Finance,Account Manager,Mumbai,15,4,1878157,MBA,Contract,2024-05-25,71,Inactive
+789,Ekanta Bhavsar,Female,46,Cloud,DevOps Engineer,Mumbai,14,4,1794274,M.Tech,Contract,2023-08-14,49,Active
+790,Turvi Wagle,Female,34,Technology,Senior Software Engineer,Kolkata,11,4,1555581,Master,Full-Time,2020-11-02,86,Active
+791,Omkaar Patil,Female,49,Technology,Software Engineer,Mumbai,19,5,2469185,MBA,Full-Time,2021-03-09,26,Active
+792,Om Ramanathan,Female,49,Cloud,DevOps Engineer,Hyderabad,20,5,2485369,Master,Contract,2018-05-18,49,Active
+793,Indrajit Nigam,Male,29,Operations,Operations Executive,Noida,6,3,1167657,MBA,Contract,2022-11-18,76,Active
+794,Yashica Dyal,Male,46,Cybersecurity,Cybersecurity Engineer,Noida,17,5,2206347,M.Tech,Full-Time,2019-05-02,97,Active
+795,Sanya Goel,Male,39,Finance,Finance Analyst,Noida,11,4,1530329,Bachelor,Full-Time,2025-04-02,13,Active
+796,Jagat Chaudhuri,Female,37,Finance,Account Manager,Kolkata,11,4,1649763,Bachelor,Full-Time,2025-12-03,81,Active
+797,Qadim Tiwari,Male,50,Cybersecurity,Security Analyst,Hyderabad,6,3,1225332,Master,Full-Time,2021-10-15,78,Active
+798,Gayathri Parekh,Male,44,Operations,Operations Executive,Hyderabad,14,4,1894279,Master,Contract,2022-04-23,55,Active
+799,Osha Dalal,Male,29,Operations,Operations Executive,Chennai,6,3,1118839,Bachelor,Full-Time,2026-02-19,21,Active
+800,Pushti Chaudhari,Female,40,Cybersecurity,Security Analyst,Mumbai,2,1,665377,MBA,Full-Time,2016-12-04,74,Active
+801,Baghyawati Ramachandran,Male,53,Data & AI,Data Analyst,Chennai,15,4,1942754,B.Tech,Contract,2020-02-20,21,Inactive
+802,Yug Bakshi,Male,53,Finance,Account Manager,Bangalore,18,5,2331011,Master,Contract,2019-08-08,44,Active
+803,Logan Bhavsar,Female,55,Cybersecurity,Cybersecurity Engineer,Kolkata,17,5,2193198,MBA,Contract,2021-10-30,63,Active
+804,Yashodhara Iyer,Male,26,HR,HR Executive,Noida,0,1,354858,B.Tech,Contract,2020-01-28,32,Active
+805,Yasti Ahluwalia,Female,34,Data & AI,Data Engineer,Noida,8,3,1219614,M.Tech,Contract,2022-10-25,29,Active
+806,Anita Bhasin,Male,48,Data & AI,Data Analyst,Hyderabad,14,4,1891958,MBA,Full-Time,2017-11-02,97,Active
+807,Tara Khurana,Male,35,Technology,Senior Software Engineer,Chennai,1,1,608454,Master,Contract,2018-04-26,44,Inactive
+808,Manan Mukhopadhyay,Male,53,Technology,Senior Software Engineer,Hyderabad,19,5,2353899,M.Tech,Contract,2024-09-10,83,Inactive
+809,Urvashi Pandya,Female,45,Cloud,DevOps Engineer,Kolkata,16,5,2163632,Master,Full-Time,2022-05-15,38,Inactive
+810,Vihaan Reddy,Female,33,Cloud,DevOps Engineer,Chennai,7,3,1118767,M.Tech,Full-Time,2021-04-17,6,Active
+811,Tanish Rattan,Female,50,Data & AI,Business Analyst,Noida,16,5,2038661,B.Tech,Contract,2017-11-07,78,Active
+812,Eesha Palan,Female,32,Finance,Finance Analyst,Hyderabad,8,3,1376139,Bachelor,Full-Time,2021-08-13,86,Active
+813,Krish Mistry,Female,36,Finance,Finance Analyst,Pune,2,1,560219,Master,Contract,2018-04-05,84,Active
+814,Ekaja Gupta,Female,33,HR,HR Manager,Bangalore,9,3,1288890,B.Tech,Contract,2020-12-02,1,Active
+815,Tarak Maharaj,Female,34,Cloud,DevOps Engineer,Noida,8,3,1194165,Master,Full-Time,2020-04-17,63,Active
+816,Yashawini Setty,Female,54,Cloud,DevOps Engineer,Noida,4,2,924349,M.Tech,Contract,2020-05-28,86,Active
+817,Arin Aggarwal,Female,38,Operations,Operations Manager,Bangalore,9,3,1409669,Master,Full-Time,2022-12-07,43,Active
+818,Zinal Raja,Male,52,Operations,Operations Executive,Hyderabad,11,4,1589466,B.Tech,Contract,2017-01-17,96,Active
+819,Harsh Datta,Male,50,Finance,Account Manager,Pune,18,5,2335385,MBA,Full-Time,2016-08-31,23,Active
+820,Peter Pal,Female,48,Cloud,Cloud Engineer,Mumbai,13,4,1883780,MBA,Contract,2018-06-25,34,Inactive
+821,Hamsini Kaul,Female,27,Technology,Senior Software Engineer,Kolkata,2,1,630737,MBA,Contract,2017-01-10,90,Inactive
+822,Ekapad Purohit,Male,49,Cybersecurity,Security Analyst,Hyderabad,19,5,2376942,Master,Contract,2016-09-16,22,Active
+823,Anthony Goswami,Male,39,Data & AI,Data Engineer,Bangalore,10,3,1543314,MBA,Full-Time,2024-06-22,15,Inactive
+824,Balendra Dua,Female,31,Cybersecurity,Security Analyst,Bangalore,2,1,679204,MBA,Full-Time,2020-06-04,52,Inactive
+825,Ansh Choudhury,Male,51,Cloud,DevOps Engineer,Pune,3,2,772300,Bachelor,Full-Time,2020-04-01,22,Active
+826,Nitesh Handa,Female,50,Cloud,Cloud Engineer,Chennai,7,3,1112121,Bachelor,Contract,2026-02-15,59,Active
+827,Jagvi Kumar,Female,54,Cybersecurity,Cybersecurity Engineer,Bangalore,2,1,521026,Bachelor,Full-Time,2018-07-09,22,Active
+828,Nathan Dugal,Female,48,Data & AI,Data Engineer,Pune,13,4,1739349,M.Tech,Contract,2023-02-14,75,Active
+829,Vidhi Rau,Male,48,Operations,Operations Manager,Chennai,10,3,1543945,B.Tech,Contract,2022-08-06,5,Active
+830,Saanvi Bhardwaj,Male,53,Cybersecurity,Security Analyst,Pune,18,5,2199260,Bachelor,Full-Time,2018-07-24,30,Inactive
+831,Mitesh Ganesh,Male,39,Technology,Senior Software Engineer,Kolkata,14,4,1917090,Bachelor,Full-Time,2019-10-07,20,Inactive
+832,William Dhaliwal,Female,40,Cybersecurity,Cybersecurity Engineer,Kolkata,18,5,2330051,MBA,Full-Time,2020-10-20,4,Active
+833,Garima Soman,Female,43,Sales,Sales Manager,Kolkata,0,1,381878,Master,Full-Time,2026-01-19,52,Inactive
+834,Lohit Banerjee,Female,55,Data & AI,Data Analyst,Chennai,19,5,2459190,MBA,Contract,2023-04-03,37,Inactive
+835,Azad Mander,Male,55,HR,HR Executive,Kolkata,0,1,390272,Master,Contract,2024-02-29,34,Active
+836,Siya Kata,Female,43,Cybersecurity,Security Analyst,Bangalore,7,3,1154323,B.Tech,Full-Time,2019-05-09,97,Active
+837,Advay Chakraborty,Female,30,Finance,Finance Analyst,Noida,4,2,779676,Master,Contract,2024-06-30,62,Active
+838,Lipika Behl,Male,40,Operations,Operations Executive,Pune,5,2,867115,M.Tech,Full-Time,2018-04-16,76,Active
+839,Chaman Koshy,Female,38,Cloud,DevOps Engineer,Pune,14,4,1916119,M.Tech,Full-Time,2018-07-09,46,Inactive
+840,Chandran Kulkarni,Male,46,HR,HR Executive,Bangalore,15,4,2013278,Master,Contract,2016-12-09,24,Active
+841,Aayush Randhawa,Male,44,HR,HR Manager,Mumbai,12,4,1669379,Master,Full-Time,2026-05-13,100,Inactive
+842,Vedika Narayanan,Male,41,Technology,Senior Software Engineer,Kolkata,9,3,1416755,M.Tech,Full-Time,2024-02-26,48,Active
+843,Rushil Swaminathan,Male,43,Finance,Account Manager,Mumbai,18,5,2217439,Bachelor,Contract,2019-09-27,98,Active
+844,Riya Choudhury,Male,49,HR,HR Executive,Chennai,10,3,1508032,M.Tech,Contract,2023-02-11,28,Active
+845,Divya Suri,Female,34,HR,HR Manager,Noida,0,1,503830,B.Tech,Contract,2020-02-23,24,Active
+846,Vamakshi Lala,Male,34,Technology,Technical Lead,Chennai,2,1,605786,Bachelor,Full-Time,2018-08-09,29,Active
+847,Hamsini Narayan,Female,50,Cybersecurity,Cybersecurity Engineer,Mumbai,4,2,929799,Bachelor,Contract,2025-06-23,76,Active
+848,Karan Singhal,Female,29,Cybersecurity,Security Analyst,Kolkata,7,3,1272392,Bachelor,Contract,2024-08-17,98,Inactive
+849,Vrinda Sundaram,Male,51,Technology,Senior Software Engineer,Mumbai,14,4,1790035,Master,Full-Time,2021-04-11,38,Inactive
+850,Nilima Shenoy,Female,24,Sales,Sales Manager,Kolkata,0,1,486333,Master,Full-Time,2018-07-15,88,Active
+851,Ishanvi Kala,Female,45,Cybersecurity,Security Analyst,Kolkata,2,1,665637,Master,Contract,2025-03-08,20,Inactive
+852,Aashi Srivastava,Male,46,Cloud,Cloud Engineer,Kolkata,19,5,2443939,MBA,Full-Time,2021-01-11,73,Active
+853,Kavya Saha,Male,42,HR,HR Manager,Bangalore,20,5,2518269,B.Tech,Contract,2019-09-17,23,Inactive
+854,Chandresh Thaman,Female,28,Cloud,Cloud Engineer,Hyderabad,7,3,1168791,Bachelor,Full-Time,2020-05-19,68,Inactive
+855,Tanmayi Setty,Female,52,Cloud,DevOps Engineer,Chennai,19,5,2276826,B.Tech,Contract,2022-02-27,46,Active
+856,Qabil Kalita,Female,41,Cybersecurity,Cybersecurity Engineer,Chennai,0,1,460325,M.Tech,Contract,2022-01-30,73,Inactive
+857,Nidra Doctor,Male,23,Cybersecurity,Security Analyst,Hyderabad,0,1,446387,Master,Full-Time,2024-06-10,51,Active
+858,Wyatt Gulati,Male,31,Cybersecurity,Security Analyst,Noida,0,1,464656,M.Tech,Contract,2026-01-05,73,Active
+859,Naksh Hora,Female,24,Cybersecurity,Cybersecurity Engineer,Kolkata,2,1,585713,MBA,Contract,2017-02-28,80,Active
+860,Ikbal Anand,Female,32,Technology,Software Engineer,Hyderabad,3,2,841993,M.Tech,Full-Time,2020-04-26,19,Inactive
+861,Samarth Mane,Male,47,Data & AI,Data Analyst,Bangalore,20,5,2421830,M.Tech,Contract,2020-04-10,46,Inactive
+862,Banjeet Chaudhry,Male,25,Cybersecurity,Security Analyst,Bangalore,3,2,777811,MBA,Contract,2019-02-17,88,Active
+863,Chameli Ben,Male,55,Cybersecurity,Security Analyst,Hyderabad,14,4,1815610,MBA,Full-Time,2018-07-09,47,Active
+864,Upkaar Badal,Female,30,Technology,Senior Software Engineer,Mumbai,7,3,1155958,Bachelor,Full-Time,2021-01-10,46,Active
+865,Ansh Ghosh,Male,40,Cloud,DevOps Engineer,Kolkata,17,5,2223879,B.Tech,Contract,2021-04-25,35,Active
+866,Samar Kohli,Male,54,Sales,Sales Executive,Chennai,15,4,1907244,MBA,Contract,2021-11-03,24,Active
+867,Zinal Kibe,Male,49,HR,HR Executive,Bangalore,4,2,909618,B.Tech,Contract,2022-07-03,31,Inactive
+868,Balveer Dasgupta,Male,50,Technology,Software Engineer,Bangalore,8,3,1377247,B.Tech,Full-Time,2024-03-27,56,Inactive
+869,Akshay Dhar,Female,25,Technology,Software Engineer,Kolkata,3,2,727028,Bachelor,Full-Time,2016-10-24,6,Active
+870,Urvi Pillai,Female,28,Sales,Sales Executive,Mumbai,0,1,546896,Bachelor,Contract,2024-05-12,45,Active
+871,Hemang Mani,Male,48,Cloud,Cloud Engineer,Noida,14,4,1903021,B.Tech,Full-Time,2026-03-18,55,Active
+872,Tanveer Banerjee,Male,46,Sales,Sales Executive,Mumbai,13,4,1736265,B.Tech,Full-Time,2019-09-17,26,Active
+873,Hiral Tandon,Female,43,Cloud,DevOps Engineer,Kolkata,15,4,1985363,Bachelor,Contract,2023-12-21,16,Active
+874,Azaan Mangal,Male,37,Cloud,DevOps Engineer,Noida,11,4,1618990,M.Tech,Contract,2024-07-10,18,Active
+875,Gavin Bose,Female,54,Sales,Sales Manager,Noida,16,5,2084641,MBA,Full-Time,2022-11-12,61,Active
+876,Aadhya Kumar,Male,52,Sales,Sales Manager,Kolkata,16,5,2040583,B.Tech,Contract,2017-03-05,19,Inactive
+877,Saanvi Mittal,Female,49,HR,HR Executive,Mumbai,0,1,371370,Bachelor,Full-Time,2017-06-27,82,Active
+878,Wakeeta Pal,Female,51,Technology,Technical Lead,Bangalore,5,2,1024537,B.Tech,Full-Time,2022-03-26,14,Inactive
+879,Onkar Sarkar,Male,30,Finance,Account Manager,Hyderabad,2,1,703653,Bachelor,Full-Time,2016-07-11,40,Active
+880,Lopa Memon,Male,43,Sales,Sales Manager,Hyderabad,8,3,1256682,Master,Full-Time,2025-08-24,81,Active
+881,Brinda Iyer,Male,43,Data & AI,Business Analyst,Mumbai,0,1,544972,Master,Full-Time,2025-05-06,22,Active
+882,Faqid Apte,Female,50,Sales,Sales Executive,Chennai,14,4,1843897,B.Tech,Contract,2026-06-04,40,Active
+883,Sai Setty,Female,46,Data & AI,Business Analyst,Hyderabad,18,5,2244713,M.Tech,Full-Time,2016-08-23,80,Active
+884,Liam Vasa,Male,39,Finance,Finance Analyst,Bangalore,12,4,1724520,MBA,Contract,2024-03-22,92,Active
+885,Bhanumati Pau,Female,32,Technology,Software Engineer,Noida,3,2,834343,Master,Full-Time,2021-05-13,5,Active
+886,Omkaar Basak,Female,50,Operations,Operations Executive,Noida,16,5,2130376,Bachelor,Contract,2024-11-15,74,Active
+887,Barkha Varty,Female,38,Cybersecurity,Security Analyst,Kolkata,10,3,1356174,B.Tech,Contract,2025-08-21,93,Active
+888,Yochana Lal,Male,45,Finance,Account Manager,Hyderabad,7,3,1196231,B.Tech,Contract,2018-10-27,78,Active
+889,Daksh Mishra,Female,36,Finance,Account Manager,Hyderabad,11,4,1593038,Master,Contract,2017-11-26,29,Active
+890,Chavvi Panchal,Male,47,Technology,Senior Software Engineer,Pune,17,5,2206772,Master,Full-Time,2020-05-16,31,Active
+891,Advay Johal,Male,43,Finance,Finance Analyst,Bangalore,5,2,988509,M.Tech,Contract,2018-06-19,31,Inactive
+892,Abeer Ganesh,Female,48,Operations,Operations Manager,Chennai,7,3,1290768,B.Tech,Contract,2022-01-27,85,Inactive
+893,Ridhi Ghose,Male,47,Technology,Software Engineer,Noida,20,5,2510443,B.Tech,Full-Time,2017-12-20,66,Active
+894,Jack Tak,Male,42,Sales,Sales Executive,Bangalore,8,3,1237770,M.Tech,Full-Time,2020-05-18,59,Active
+895,Urmi Kumer,Female,24,Finance,Finance Analyst,Mumbai,3,2,721753,MBA,Full-Time,2019-10-26,81,Inactive
+896,Naksh Bava,Male,49,HR,HR Executive,Bangalore,9,3,1379035,Master,Contract,2017-06-25,4,Active
+897,Hemangini Dass,Male,52,Finance,Account Manager,Mumbai,19,5,2292148,MBA,Contract,2019-07-06,38,Active
+898,Upkaar Kuruvilla,Male,54,Finance,Account Manager,Mumbai,9,3,1302050,Bachelor,Contract,2024-03-10,82,Active
+899,Chakrika Korpal,Male,53,Finance,Finance Analyst,Noida,18,5,2256083,Bachelor,Contract,2025-07-14,20,Active
+900,Sarthak Rege,Female,41,Sales,Sales Executive,Noida,20,5,2414998,B.Tech,Contract,2019-10-29,14,Active
+901,Fitan Shenoy,Female,31,Finance,Finance Analyst,Chennai,1,1,500405,Bachelor,Contract,2018-03-17,2,Active
+902,Eshana Ramaswamy,Male,52,HR,HR Manager,Chennai,16,5,2106530,Bachelor,Contract,2016-10-16,4,Inactive
+903,Ekbal Shukla,Female,46,Technology,Software Engineer,Hyderabad,0,1,354114,MBA,Full-Time,2017-11-26,61,Inactive
+904,Qadim Venkatesh,Female,52,Operations,Operations Manager,Bangalore,17,5,2282217,M.Tech,Contract,2023-11-20,60,Active
+905,Gautami Prabhu,Female,40,Technology,Technical Lead,Bangalore,16,5,2077422,MBA,Full-Time,2023-05-05,26,Inactive
+906,Rishi Bava,Female,26,Finance,Finance Analyst,Hyderabad,0,1,506852,Master,Contract,2019-02-22,9,Active
+907,Jackson Parmer,Male,51,Data & AI,Data Engineer,Noida,15,4,1929961,MBA,Full-Time,2020-05-31,79,Active
+908,Nihal Pandey,Female,44,Cloud,DevOps Engineer,Pune,12,4,1779394,MBA,Full-Time,2017-08-09,54,Active
+909,Ayaan Panchal,Female,47,Technology,Senior Software Engineer,Noida,15,4,1959861,B.Tech,Full-Time,2021-07-31,75,Active
+910,Nakul Gaba,Female,39,Cybersecurity,Cybersecurity Engineer,Chennai,6,3,1048464,B.Tech,Contract,2023-06-09,30,Active
+911,Upkaar Manne,Male,23,Finance,Account Manager,Hyderabad,0,1,501695,Bachelor,Full-Time,2022-11-30,53,Active
+912,Ranbir Sibal,Female,27,Operations,Operations Executive,Hyderabad,6,3,1128108,Bachelor,Contract,2025-12-29,66,Active
+913,Michael Mittal,Female,29,Operations,Operations Executive,Mumbai,1,1,615047,B.Tech,Full-Time,2021-11-03,14,Active
+914,Varsha Viswanathan,Female,51,Sales,Sales Manager,Chennai,6,3,1220698,MBA,Contract,2026-04-27,18,Inactive
+915,Prisha Apte,Female,47,Cloud,Cloud Engineer,Noida,17,5,2114034,Master,Full-Time,2025-12-23,7,Active
+916,Aarush Nagar,Female,55,Finance,Finance Analyst,Chennai,13,4,1711831,Bachelor,Contract,2019-03-12,87,Active
+917,Vaishnavi Arora,Male,34,Operations,Operations Manager,Noida,7,3,1241057,Bachelor,Contract,2025-09-08,77,Active
+918,Ansh Tiwari,Female,36,Cloud,DevOps Engineer,Kolkata,15,4,2010093,B.Tech,Contract,2020-07-05,46,Inactive
+919,Varsha Kunda,Female,41,Sales,Sales Executive,Pune,18,5,2203379,MBA,Full-Time,2026-01-11,66,Active
+920,Vasatika Kohli,Male,52,HR,HR Executive,Kolkata,9,3,1405317,B.Tech,Full-Time,2021-04-15,93,Inactive
+921,Deepa Khatri,Male,47,Technology,Software Engineer,Pune,2,1,681638,Master,Full-Time,2016-12-24,53,Active
+922,Chavvi Loke,Male,44,Data & AI,Data Analyst,Hyderabad,19,5,2383722,B.Tech,Contract,2024-11-27,69,Inactive
+923,Jalsa Pandya,Male,53,Operations,Operations Executive,Chennai,4,2,863112,Master,Full-Time,2019-02-09,22,Active
+924,Dhriti Basu,Female,50,Operations,Operations Manager,Bangalore,7,3,1156847,Bachelor,Contract,2019-05-09,49,Active
+925,Pratyush More,Male,43,Finance,Account Manager,Kolkata,3,2,767849,MBA,Full-Time,2019-04-15,43,Active
+926,Vivaan Khalsa,Male,51,Sales,Sales Executive,Mumbai,9,3,1407747,M.Tech,Contract,2019-03-11,2,Active
+927,Jagdish Basak,Female,48,Finance,Account Manager,Mumbai,12,4,1740891,M.Tech,Contract,2017-11-05,93,Active
+928,Kavya Roy,Female,53,Technology,Senior Software Engineer,Mumbai,11,4,1710744,M.Tech,Contract,2020-05-16,9,Active
+929,Raagini Behl,Female,51,Finance,Finance Analyst,Hyderabad,19,5,2460195,B.Tech,Contract,2017-08-04,42,Active
+930,Priya Sethi,Male,39,HR,HR Executive,Noida,5,2,985446,B.Tech,Contract,2023-05-23,32,Active
+931,Vasana Dugar,Male,41,Cloud,Cloud Engineer,Kolkata,20,5,2502842,M.Tech,Full-Time,2017-11-05,90,Inactive
+932,Yashica Narayan,Female,36,Finance,Finance Analyst,Noida,9,3,1397879,MBA,Full-Time,2023-07-26,80,Active
+933,Maya Thakkar,Male,42,Cloud,Cloud Engineer,Pune,9,3,1402860,B.Tech,Full-Time,2019-11-27,14,Active
+934,Vasudha Oza,Female,40,Sales,Sales Executive,Bangalore,11,4,1569404,Bachelor,Full-Time,2021-11-20,94,Active
+935,Karan Amble,Male,47,Data & AI,Business Analyst,Chennai,17,5,2157699,Master,Contract,2023-03-01,59,Active
+936,Harinakshi Rai,Male,37,Sales,Sales Executive,Chennai,15,4,2003570,M.Tech,Contract,2026-03-19,44,Active
+937,Mason Goyal,Male,50,Cybersecurity,Cybersecurity Engineer,Mumbai,8,3,1285424,Master,Full-Time,2021-08-30,92,Inactive
+938,Idika Setty,Male,55,Cloud,DevOps Engineer,Kolkata,1,1,515037,MBA,Full-Time,2023-03-21,12,Active
+939,Waida Nair,Female,44,Cybersecurity,Security Analyst,Noida,9,3,1450798,B.Tech,Full-Time,2025-07-10,43,Inactive
+940,Samuel Buch,Male,53,Data & AI,Business Analyst,Hyderabad,17,5,2126577,MBA,Full-Time,2025-05-28,37,Active
+941,Ria Bava,Male,45,Sales,Sales Manager,Noida,4,2,963033,M.Tech,Contract,2021-06-03,66,Active
+942,Kiaan Yogi,Male,55,Operations,Operations Executive,Kolkata,7,3,1272946,MBA,Contract,2026-03-19,5,Active
+943,Abdul Naidu,Male,41,HR,HR Manager,Pune,20,5,2431502,M.Tech,Full-Time,2020-07-06,85,Inactive
+944,Zarna Dugar,Male,33,Finance,Finance Analyst,Noida,12,4,1677161,Bachelor,Full-Time,2024-02-16,69,Active
+945,Warinder Parikh,Male,37,Operations,Operations Manager,Kolkata,9,3,1466216,M.Tech,Contract,2023-02-05,75,Active
+946,Charles Thakkar,Male,43,Technology,Technical Lead,Pune,2,1,631569,M.Tech,Contract,2024-12-28,64,Inactive
+947,Naksh Madan,Male,42,Finance,Account Manager,Chennai,5,2,1029001,B.Tech,Contract,2018-11-05,59,Active
+948,Irya Raman,Female,39,Data & AI,Business Analyst,Noida,10,3,1526855,Master,Contract,2023-12-07,41,Active
+949,Nidra Kannan,Female,37,Data & AI,Data Engineer,Noida,16,5,2201915,Master,Contract,2021-04-28,7,Active
+950,Naksh Walia,Female,54,Cloud,Cloud Engineer,Noida,6,3,1213564,M.Tech,Full-Time,2018-05-25,50,Active
+951,Upkaar Pau,Female,23,Cloud,Cloud Engineer,Kolkata,0,1,461993,MBA,Contract,2019-10-29,69,Active
+952,Nisha Sant,Female,27,Finance,Finance Analyst,Chennai,2,1,683211,MBA,Contract,2025-01-29,46,Active
+953,Teerth Nanda,Male,35,Sales,Sales Executive,Kolkata,10,3,1524077,Master,Full-Time,2026-02-26,24,Active
+954,Girik Hayer,Male,27,Technology,Senior Software Engineer,Pune,3,2,750223,Bachelor,Contract,2026-01-11,15,Active
+955,Zaid Koshy,Male,42,Data & AI,Data Engineer,Pune,19,5,2353985,Bachelor,Full-Time,2021-05-28,67,Active
+956,Leela Sankaran,Male,52,Cybersecurity,Security Analyst,Kolkata,17,5,2304683,Master,Full-Time,2022-06-20,7,Active
+957,Faris Ravi,Female,55,Operations,Operations Manager,Hyderabad,5,2,877453,Master,Contract,2026-05-04,23,Inactive
+958,Ganga Dugar,Male,51,Sales,Sales Manager,Mumbai,13,4,1810913,B.Tech,Full-Time,2020-12-15,72,Active
+959,Raagini Bakshi,Male,51,Sales,Sales Manager,Hyderabad,5,2,912167,MBA,Full-Time,2018-10-23,46,Inactive
+960,Lipika Bala,Female,49,Sales,Sales Manager,Pune,20,5,2421489,M.Tech,Contract,2022-06-23,1,Active
+961,Urmi Bahl,Male,46,Operations,Operations Executive,Hyderabad,12,4,1686263,Bachelor,Contract,2022-08-03,37,Active
+962,Forum Keer,Male,35,Sales,Sales Executive,Bangalore,11,4,1658178,Master,Contract,2020-07-28,41,Active
+963,Pooja Jain,Female,43,Operations,Operations Executive,Kolkata,17,5,2155339,M.Tech,Full-Time,2026-06-09,7,Inactive
+964,Anika Kala,Female,42,Data & AI,Business Analyst,Kolkata,17,5,2192220,MBA,Full-Time,2023-12-28,92,Active
+965,Ishanvi Mitter,Female,41,Cloud,Cloud Engineer,Hyderabad,18,5,2355235,Bachelor,Full-Time,2023-01-08,38,Inactive
+966,Mitesh Chahal,Male,37,Data & AI,Data Analyst,Bangalore,16,5,2098350,Bachelor,Full-Time,2025-03-31,66,Active
+967,Jack Dhawan,Male,49,Cybersecurity,Security Analyst,Hyderabad,7,3,1223189,MBA,Contract,2017-08-03,92,Active
+968,Shivansh Bala,Male,40,Finance,Account Manager,Chennai,11,4,1678885,B.Tech,Full-Time,2017-04-06,32,Active
+969,Girish Krishnamurthy,Male,49,Cloud,Cloud Engineer,Chennai,10,3,1382680,Master,Full-Time,2024-02-19,85,Inactive
+970,Oni Tailor,Female,42,HR,HR Manager,Pune,20,5,2487004,B.Tech,Contract,2019-01-22,54,Inactive
+971,Andrew Srinivas,Male,51,Technology,Senior Software Engineer,Chennai,19,5,2297833,Bachelor,Contract,2018-08-07,58,Active
+972,Janani Baral,Male,42,Cybersecurity,Cybersecurity Engineer,Kolkata,17,5,2296534,B.Tech,Full-Time,2022-11-17,32,Active
+973,Rachita Bhattacharyya,Female,33,Data & AI,Business Analyst,Pune,11,4,1616565,M.Tech,Contract,2019-05-18,19,Active
+974,Meghana Kuruvilla,Female,33,HR,HR Executive,Bangalore,11,4,1667343,M.Tech,Contract,2024-09-09,81,Inactive
+975,Janaki Sachdev,Female,41,HR,HR Executive,Kolkata,18,5,2323898,B.Tech,Contract,2023-10-20,98,Active
+976,Tamanna Mistry,Male,37,Operations,Operations Executive,Kolkata,8,3,1384725,Master,Contract,2017-10-21,15,Inactive
+977,Wriddhish Joshi,Female,50,Finance,Finance Analyst,Hyderabad,9,3,1459108,Master,Contract,2017-02-20,57,Active
+978,Yoshita Ahuja,Male,47,Operations,Operations Executive,Pune,19,5,2299431,Master,Contract,2019-07-28,76,Active
+979,Sachi Sampath,Female,51,HR,HR Executive,Bangalore,19,5,2298756,M.Tech,Contract,2018-09-16,45,Inactive
+980,Nidhi Loke,Male,33,Cloud,Cloud Engineer,Noida,11,4,1570364,MBA,Full-Time,2025-10-20,99,Active
+981,Lavanya Mital,Female,51,Sales,Sales Manager,Mumbai,17,5,2269399,MBA,Full-Time,2023-12-16,33,Inactive
+982,Vrishti Raghavan,Female,49,HR,HR Executive,Kolkata,11,4,1627781,B.Tech,Contract,2017-10-29,39,Inactive
+983,Falak Kala,Male,47,Operations,Operations Executive,Hyderabad,20,5,2510664,M.Tech,Full-Time,2021-04-18,85,Inactive
+984,Anika Kashyap,Female,36,Operations,Operations Manager,Bangalore,12,4,1691371,MBA,Contract,2026-01-25,77,Active
+985,Varsha Madan,Female,34,HR,HR Manager,Kolkata,1,1,582981,B.Tech,Contract,2017-12-28,20,Active
+986,Vrishti Rattan,Male,44,Cybersecurity,Security Analyst,Mumbai,13,4,1750966,B.Tech,Contract,2018-12-07,10,Active
+987,Vidhi Dar,Male,50,Sales,Sales Manager,Bangalore,8,3,1299405,Bachelor,Contract,2019-11-05,95,Active
+988,Chameli Shah,Male,37,Operations,Operations Manager,Mumbai,14,4,1829333,M.Tech,Contract,2021-06-20,30,Active
+989,Chandran Pau,Female,33,Cybersecurity,Security Analyst,Hyderabad,1,1,494284,Bachelor,Contract,2020-11-21,39,Active
+990,Alexander Boase,Female,36,Cloud,DevOps Engineer,Mumbai,13,4,1705048,Master,Contract,2017-06-11,87,Active
+991,Chavvi Shenoy,Female,41,Sales,Sales Executive,Hyderabad,10,3,1548335,Master,Contract,2020-08-27,10,Active
+992,Amol Rao,Male,42,Technology,Software Engineer,Pune,12,4,1612482,M.Tech,Full-Time,2019-05-18,20,Active
+993,Michael Oza,Female,32,Operations,Operations Executive,Kolkata,11,4,1532278,B.Tech,Contract,2017-01-08,66,Active
+994,Aachal Parmer,Female,55,Operations,Operations Manager,Chennai,1,1,532090,MBA,Full-Time,2025-12-10,93,Active
+995,Nicholas Lanka,Male,44,Operations,Operations Executive,Hyderabad,12,4,1744814,Master,Full-Time,2026-04-25,14,Active
+996,Yashvi Wason,Male,45,Cybersecurity,Cybersecurity Engineer,Hyderabad,11,4,1677351,Master,Full-Time,2020-06-02,62,Active
+997,Manan Seth,Male,39,Data & AI,Data Analyst,Hyderabad,3,2,851041,B.Tech,Full-Time,2025-12-11,93,Active
+998,Warinder Bora,Female,41,Finance,Account Manager,Mumbai,10,3,1463766,MBA,Full-Time,2016-09-10,6,Active
+999,Urvashi Hayre,Female,45,Technology,Software Engineer,Noida,10,3,1382337,Bachelor,Contract,2021-09-18,37,Active
+1000,Balendra Chand,Female,42,Operations,Operations Manager,Mumbai,0,1,410220,Master,Contract,2020-09-26,18,Active
